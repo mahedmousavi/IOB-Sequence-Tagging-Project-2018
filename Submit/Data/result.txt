@@ -1,0 +1,8201 @@
+star _star
+of _of
+thor B-movie.name
+
+who _who
+is _is
+in _in
+the _the
+movie _movie
+the B-movie.name
+campaign I-movie.name
+
+list _list
+the _the
+cast _cast
+of _of
+the _the
+movie _movie
+the B-movie.name
+campaign I-movie.name
+
+who _who
+was _was
+in _in
+twilight B-movie.name
+
+who _who
+is _is
+in _in
+<unk> _movie
+
+actor _actor
+from _from
+lost B-movie.name
+
+who _who
+played _played
+in _in
+the _the
+movie _movie
+rocky B-movie.name
+
+who _who
+played _played
+in _in
+the _the
+movie _movie
+captain B-movie.name
+america I-movie.name
+
+cast _cast
+and _and
+crew _crew
+for _for
+in B-movie.name
+july I-movie.name
+
+who _who
+is _is
+in _in
+movie _movie
+in B-movie.name
+july I-movie.name
+
+who _who
+s _s
+in _in
+star B-movie.name
+wars I-movie.name
+episode I-movie.name
+four I-movie.name
+
+who _who
+was _was
+in _in
+apollo B-movie.name
+thirteen I-movie.name
+
+who _who
+was _was
+apollo B-movie.name
+thirteen I-movie.name
+s _s
+cast _cast
+
+search _search
+for _for
+information _information
+about _about
+the _the
+cast _cast
+and _and
+crew _crew
+of _of
+appolo B-movie.name
+thirteen I-movie.name
+
+i _i
+would _would
+like _like
+to _to
+know _know
+more _more
+about _about
+the _the
+cast _cast
+and _and
+crew _crew
+of _of
+the _the
+movie _movie
+apollo B-movie.name
+thirteen I-movie.name
+
+who _who
+starred _starred
+in _in
+the B-movie.name
+avengers I-movie.name
+
+cast _cast
+for _for
+finding B-movie.name
+nemo I-movie.name
+
+actor _actor
+from _from
+<unk> B-movie.name
+
+list _list
+actors _actors
+in _in
+the _the
+movie _movie
+<unk> B-movie.name
+<unk> I-movie.name
+
+dirty B-movie.name
+dancing I-movie.name
+actors _actors
+
+who _who
+are _are
+cast _cast
+and _and
+crew _crew
+of _of
+dirty B-movie.name
+dancing I-movie.name
+
+who _who
+was _was
+in _in
+hitch B-movie.name
+
+who _who
+is _is
+in _in
+the _the
+cast _cast
+of _of
+hitch B-movie.name
+
+star B-movie.name
+of I-movie.name
+facts _facts
+of _of
+life B-movie.name
+
+show _show
+me _me
+movie _movie
+credits _credits
+
+who _who
+does _does
+the _the
+voices _voices
+for _for
+the _the
+movie _movie
+
+find _find
+movie _movie
+actors _actors
+
+show _show
+credits _credits
+- _-
+forager B-movie.name
+
+star _star
+of _of
+modern B-movie.name
+family I-movie.name
+
+look _look
+up _up
+information _information
+about _about
+the _the
+cast _cast
+crew _crew
+of _of
+go B-movie.name
+
+find _find
+information _information
+about _about
+the _the
+cast _cast
+and _and
+crew _crew
+of _of
+go B-movie.name
+
+who _who
+was _was
+in _in
+the _the
+cast _cast
+of _of
+go B-movie.name
+
+can _can
+you _you
+find _find
+the _the
+lead _lead
+actor _actor
+in _in
+pretty B-movie.name
+women I-movie.name
+
+what _what
+are _are
+the _the
+actors _actors
+names _names
+and _and
+<unk> _cast
+in _in
+finding B-movie.name
+nemo I-movie.name
+
+searching _searching
+for _for
+names _names
+of _of
+crew _crew
+members _members
+of _of
+<unk> B-movie.name
+thirteen I-movie.name
+
+budget _budget
+for _for
+dark B-movie.name
+knight I-movie.name
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+the B-movie.name
+godfather I-movie.name
+
+budget _budget
+for _for
+twilight B-movie.name
+
+please _please
+look _look
+up _up
+the _the
+budget _budget
+of _of
+step B-movie.name
+up I-movie.name
+
+budget _budget
+for _for
+titanic B-movie.name
+the I-movie.name
+movie _movie
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+the _the
+movie _movie
+titanic B-movie.name
+
+budget _budget
+for _for
+iron B-movie.name
+man I-movie.name
+2 I-movie.name
+
+please _please
+tell _tell
+me _me
+how _how
+much _much
+was _was
+the _the
+budget _budget
+for _for
+avatar B-movie.name
+
+how _how
+much _much
+money _money
+did _did
+they _they
+spend _spend
+to _to
+make _make
+avatar B-movie.name
+
+avatar B-movie.name
+s _s
+budget _budget
+
+how _how
+much _much
+did _did
+avatar B-movie.name
+take _take
+in _in
+
+please _please
+show _show
+me _me
+what _what
+the _the
+budget _budget
+was _was
+for _for
+avatar B-movie.name
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+the _the
+avatar B-movie.name
+movie _movie
+
+can _can
+you _you
+tell _tell
+me _me
+the _the
+budget _budget
+of _of
+the _the
+movie _movie
+avatar B-movie.name
+
+total _total
+budget _budget
+for _for
+the _the
+movie _movie
+avatar B-movie.name
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+batman B-movie.name
+begins I-movie.name
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+the B-movie.name
+avengers I-movie.name
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+gone B-movie.name
+with I-movie.name
+the I-movie.name
+wind I-movie.name
+
+what _what
+was _was
+spent _spent
+on _on
+my B-movie.name
+big I-movie.name
+fat I-movie.name
+greek I-movie.name
+wedding I-movie.name
+
+what _what
+was _was
+pretty B-movie.name
+woman I-movie.name
+s _s
+budget _budget
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+spaceballs B-movie.name
+
+how _how
+many _many
+movies _movies
+has _has
+kevin B-actor.name
+bacon I-actor.name
+been _been
+the _the
+lead _lead
+actor _actor
+in _in
+
+how _how
+many _many
+star B-movie.name
+wars I-movie.name
+movies _movies
+are _are
+there _there
+
+how _how
+many _many
+movies _movies
+are _are
+rated _rated
+g B-rating.name
+
+spain B-country.name
+has _has
+how _how
+many _many
+movies _movies
+
+how _how
+many _many
+movies _movies
+has _has
+kristen B-actor.name
+stewart I-actor.name
+starred _starred
+in _in
+
+how _how
+many _many
+movies _movies
+has _has
+robert B-director.name
+wise I-director.name
+directed _directed
+
+how _how
+many _many
+movies _movies
+did _did
+alfred B-director.name
+hitchcock I-director.name
+direct _direct
+
+how _how
+many _many
+movies _movies
+has _has
+paramount B-producer.name
+done _done
+
+i _i
+would _would
+like _like
+to _to
+know _know
+the _the
+name _name
+of _of
+the _the
+country _country
+from _from
+where _where
+the _the
+movie _movie
+kati B-movie.name
+patang I-movie.name
+comes _comes
+
+what _what
+country _country
+is _is
+bullhead B-movie.name
+
+what _what
+country _country
+made _made
+black B-movie.name
+swan I-movie.name
+
+what _what
+country _country
+was _was
+black B-movie.name
+swan I-movie.name
+from _from
+
+what _what
+country _country
+was _was
+the _the
+movie _movie
+made _made
+
+what _what
+country _country
+did _did
+<unk> B-movie.name
+<unk> I-movie.name
+<unk> I-movie.name
+come _come
+from _from
+
+origin _origin
+of _of
+titanic B-movie.name
+
+origin _origin
+of _of
+king I-movie.name
+<unk> _playing
+
+when _when
+will _will
+top B-movie.name
+gun I-movie.name
+be _be
+released _released
+
+release _release
+year _year
+and _and
+date _date
+for _for
+casino B-movie.name
+
+when _when
+did _did
+will B-person.name
+ferrell I-person.name
+<unk> _win
+acting _acting
+
+show _show
+me _me
+when _when
+24 B-movie.name
+will _will
+be _be
+released _released
+
+can _can
+i _i
+have _have
+release _release
+date _date
+of _of
+movie _movie
+
+movie _movie
+s _s
+release _release
+date _date
+
+show _show
+me _me
+when _when
+the _the
+movie _movie
+was _was
+made _made
+
+when _when
+the _the
+movie _movie
+titanic B-movie.name
+was _was
+released _released
+
+what _what
+year _year
+did _did
+the _the
+italian B-country.name
+movie _movie
+<unk> B-movie.name
+<unk> I-movie.name
+come _come
+out _out
+
+can _can
+you _you
+please _please
+search _search
+for _for
+release _release
+date _date
+for _for
+karate B-movie.name
+kid I-movie.name
+
+karate B-movie.name
+kid I-movie.name
+release _release
+date _date
+please _please
+
+when _when
+was _was
+dirty B-movie.name
+dancing I-movie.name
+released _released
+
+when _when
+was _was
+spaceballs B-movie.name
+released _released
+
+when _when
+was _was
+batman B-movie.name
+released _released
+
+when _when
+was _was
+pretty B-movie.name
+woman I-movie.name
+released _released
+
+when _when
+was _was
+men B-movie.name
+in I-movie.name
+black I-movie.name
+released _released
+
+when _when
+did _did
+kristen B-person.name
+stewart I-person.name
+start _start
+acting _acting
+
+when _when
+is _is
+possessed B-movie.name
+going _going
+to _to
+be _be
+released _released
+
+when _when
+was _was
+resident B-movie.name
+evil I-movie.name
+released _released
+
+release _release
+date _date
+for _for
+finding B-movie.name
+nemo I-movie.name
+
+when _when
+was _was
+finding B-movie.name
+nemo I-movie.name
+released _released
+
+release _release
+date _date
+of _of
+hum B-movie.name
+tum I-movie.name
+
+when _when
+was _was
+freedom B-movie.name
+writers I-movie.name
+released _released
+
+when _when
+was _was
+avatar B-movie.name
+released _released
+
+when _when
+did _did
+avatar B-movie.name
+released _released
+
+i _i
+would _would
+like _like
+to _to
+know _know
+the _the
+release _release
+date _date
+of _of
+the _the
+movie _movie
+avatar B-movie.name
+
+can _can
+you _you
+tell _tell
+me _me
+when _when
+was _was
+the _the
+movie _movie
+avatar B-movie.name
+released _released
+
+when _when
+was _was
+date _date
+night I-movie.name
+released _released
+
+when _when
+did _did
+black B-movie.name
+swan I-movie.name
+come _come
+out _out
+
+when _when
+did _did
+avergers I-movie.name
+come _come
+out _out
+
+what _what
+date _date
+did _did
+the B-movie.name
+amazing I-movie.name
+spiderman I-movie.name
+show _show
+for _for
+the _the
+1st _1st
+time _time
+
+what _what
+is _is
+the _the
+release _release
+date _date
+of _of
+vulgaria B-movie.name
+
+when _when
+the _the
+movie _movie
+the B-movie.name
+godfather I-movie.name
+was _was
+released _released
+
+when _when
+does _does
+looper B-movie.name
+come _come
+out _out
+
+can _can
+you _you
+tell _tell
+me _me
+the _the
+release _release
+date _date
+of _of
+the _the
+movie _movie
+barfi B-movie.name
+
+what _what
+date _date
+did _did
+the _the
+movie _movie
+heroine B-movie.name
+come _come
+out _out
+
+when _when
+did _did
+the _the
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+<unk> _in
+theaters _theaters
+
+what _what
+day _day
+is _is
+fun _fun
+size _size
+coming _coming
+out _out
+
+what _what
+day _day
+will _will
+<unk> B-movie.name
+<unk> I-movie.name
+come _come
+out _out
+
+when _when
+will _will
+i B-movie.name
+be _be
+<unk> _released
+to _to
+view _view
+iron B-movie.name
+man I-movie.name
+3 I-movie.name
+
+on _on
+what _what
+date _date
+will _will
+iron B-movie.name
+man I-movie.name
+3 I-movie.name
+be _be
+released _released
+
+who _who
+directed _directed
+gone B-movie.name
+with I-movie.name
+the I-movie.name
+wind I-movie.name
+
+who _who
+was _was
+the _the
+director _director
+for _for
+black B-movie.name
+swan I-movie.name
+
+tell _tell
+me _me
+the _the
+directed _directed
+of _of
+black B-movie.name
+swan I-movie.name
+
+who _who
+is _is
+the _the
+director _director
+of _of
+sleepless B-movie.name
+in I-movie.name
+seattle I-movie.name
+
+find _find
+who _who
+the _the
+director _director
+was _was
+in _in
+men B-movie.name
+in I-movie.name
+black I-movie.name
+3 I-movie.name
+
+locate _locate
+the _the
+director _director
+who _who
+created _created
+the _the
+movie _movie
+men B-movie.name
+in I-movie.name
+black I-movie.name
+3 I-movie.name
+
+director _director
+of _of
+titanic B-movie.name
+
+titanic B-movie.name
+director _director
+
+avengers B-movie.name
+movie _movie
+director _director
+
+<unk> _rating
+of _of
+movie _movie
+avengers B-movie.name
+
+who _who
+was _was
+the _the
+director _director
+for _for
+<unk> B-movie.name
+<unk> I-movie.name
+
+director _director
+for _for
+big B-movie.name
+
+who _who
+was _was
+the _the
+director _director
+of _of
+welcome B-movie.name
+to I-movie.name
+the I-movie.name
+dollhouse I-movie.name
+
+who _who
+directed _directed
+the _the
+movie _movie
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+at I-movie.name
+the I-movie.name
+street I-movie.name
+
+who _who
+was _was
+the _the
+director _director
+of _of
+the _the
+movie _movie
+toy B-movie.name
+story I-movie.name
+
+list _list
+director _director
+gilda B-movie.name
+
+who _who
+directed _directed
+field B-movie.name
+of I-movie.name
+dreams I-movie.name
+
+who _who
+is _is
+the _the
+second _second
+director _director
+on _on
+finding B-movie.name
+nemo I-movie.name
+
+find _find
+director _director
+of _of
+finding B-movie.name
+nemo I-movie.name
+
+who _who
+directed _directed
+finding B-movie.name
+nemo I-movie.name
+
+finding B-movie.name
+nemo I-movie.name
+directed _directed
+by _by
+who _who
+
+director _director
+of _of
+finding B-movie.name
+nemo I-movie.name
+
+who _who
+directed _directed
+hitch B-movie.name
+
+i _i
+want _want
+to _to
+know _know
+who _who
+is _is
+the _the
+director _director
+of _of
+the _the
+movie _movie
+batman B-movie.name
+
+who _who
+is _is
+director _director
+of _of
+the B-movie.name
+words I-movie.name
+
+who _who
+directed _directed
+million I-movie.gross_revenue
+<unk> I-movie.gross_revenue
+<unk> I-movie.gross_revenue
+
+who _who
+was _was
+the _the
+guy _guy
+that _that
+directed _directed
+<unk> B-movie.name
+
+who _who
+did _did
+twilight B-movie.name
+
+twilight B-movie.name
+director _director
+
+who _who
+directed _directed
+twilight B-movie.name
+
+who _who
+directed _directed
+twilight B-movie.name
+
+who _who
+is _is
+the _the
+director _director
+of _of
+hum B-movie.name
+tum I-movie.name
+
+look _look
+for _for
+the _the
+director _director
+of _of
+step B-movie.name
+up I-movie.name
+
+please _please
+find _find
+the _the
+director _director
+of _of
+freedom B-movie.name
+writers I-movie.name
+
+find _find
+the _the
+director _director
+of _of
+freedom B-movie.name
+writers I-movie.name
+
+look _look
+up _up
+the _the
+director _director
+of _of
+freedom B-movie.name
+writers I-movie.name
+
+find _find
+the _the
+director _director
+of _of
+freedom B-movie.name
+writers I-movie.name
+
+who _who
+directed _directed
+<unk> B-movie.name
+<unk> I-movie.name
+
+godfather B-movie.name
+director _director
+
+show _show
+me _me
+who _who
+directed _directed
+the B-movie.name
+sound I-movie.name
+of I-movie.name
+music I-movie.name
+
+who _who
+directed _directed
+the B-movie.name
+sound I-movie.name
+of I-movie.name
+music I-movie.name
+
+who _who
+directed _directed
+the B-movie.name
+sound I-movie.name
+of I-movie.name
+music I-movie.name
+
+find _find
+the _the
+name _name
+of _of
+the _the
+director _director
+of _of
+return B-movie.name
+
+show _show
+movie _movie
+avengers B-movie.name
+director _director
+name _name
+
+name _name
+the _the
+director _director
+in _in
+sleepless B-movie.name
+in I-movie.name
+seattle I-movie.name
+
+what _what
+s _s
+the _the
+genre _genre
+for _for
+black B-movie.name
+swan I-movie.name
+
+what _what
+is _is
+black B-movie.name
+swan I-movie.name
+s _s
+genre _genre
+
+what _what
+genre _genre
+is _is
+parenthood B-movie.name
+
+what _what
+kind _kind
+of _of
+movie _movie
+is _is
+parenthood B-movie.name
+
+genre _genre
+for _for
+pride B-movie.name
+and I-movie.name
+prejudice I-movie.name
+
+can _can
+you _you
+tell _tell
+me _me
+the _the
+genre _genre
+of _of
+the _the
+movie _movie
+lawless B-movie.name
+
+show _show
+me _me
+what _what
+genre _genre
+does _does
+movie _movie
+lawless B-movie.name
+belongs _belongs
+to _to
+
+genre _genre
+for _for
+snow B-movie.name
+white I-movie.name
+and I-movie.name
+the I-movie.name
+huntsman I-movie.name
+
+what _what
+is _is
+the _the
+movie _movie
+type _type
+
+what _what
+s _s
+the _the
+genre _genre
+of _of
+<unk> B-movie.name
+
+get _get
+the _the
+genre _genre
+of _of
+welcome B-movie.name
+to I-movie.name
+the I-movie.name
+dollhouse I-movie.name
+
+i _i
+want _want
+to _to
+find _find
+the _the
+genre _genre
+freedom B-movie.name
+writers I-movie.name
+is _is
+in _in
+
+what _what
+genre _genre
+is _is
+freedom B-movie.name
+writers I-movie.name
+in _in
+
+genre _genre
+for _for
+batman B-movie.name
+
+give _give
+me _me
+the _the
+genre _genre
+of _of
+the _the
+movie _movie
+avatar B-movie.name
+
+i _i
+would _would
+like _like
+to _to
+know _know
+the _the
+genre _genre
+of _of
+the _the
+movie _movie
+avatar B-movie.name
+
+genre _genre
+for _for
+bad I-character.name
+teacher I-character.name
+
+can _can
+you _you
+tell _tell
+me _me
+pretty B-movie.name
+girl I-movie.name
+the _the
+movie _movie
+s _s
+genre _genre
+
+what _what
+genre _genre
+is _is
+the _the
+movie _movie
+pitch B-movie.name
+perfect I-movie.name
+
+in _in
+what _what
+language _language
+is _is
+this _this
+movie _movie
+
+what _what
+language _language
+is _is
+this _this
+movie _movie
+
+what _what
+language _language
+is _is
+the _the
+movie _movie
+hero B-movie.name
+in I-movie.name
+
+language _language
+of _of
+king I-movie.name
+<unk> _playing
+
+language _language
+of _of
+casa B-movie.name
+blanca I-movie.name
+
+what _what
+language _language
+is _is
+<unk> B-movie.name
+on I-movie.name
+in _in
+
+language _language
+of _of
+spanglish B-movie.name
+
+find _find
+out _out
+what _what
+language _language
+the B-movie.name
+father I-movie.name
+of _of
+my B-movie.name
+children I-movie.name
+is _is
+in _in
+
+i _i
+am _am
+<unk> _interested
+in _in
+<unk> _what
+belle B-movie.name
+what _what
+foreign _foreign
+language _language
+is _is
+the _the
+movie _movie
+available _available
+in _in
+
+i _i
+need _need
+to _to
+find _find
+out _out
+about _about
+names _names
+of _of
+some _some
+japanese B-movie.language
+movies _movies
+
+can _can
+you _you
+tell _tell
+me _me
+names _names
+of _of
+some _some
+japanese B-movie.language
+movies _movies
+
+ron B-director.name
+howard I-director.name
+name _name
+some _some
+of _of
+the _the
+movies _movies
+he _he
+produce _produce
+
+tell _tell
+me _me
+the _the
+names _names
+of _of
+the _the
+movies _movies
+produced _produced
+by _by
+william B-producer.name
+packer I-producer.name
+
+about _about
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+
+show _show
+me _me
+info _info
+on _on
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+
+find _find
+old _old
+movies _movies
+
+find _find
+movie _movie
+ratings _ratings
+
+find _find
+<unk> _movies
+released _released
+movies _movies
+in _in
+spanish B-movie.language
+
+was _was
+bill B-actor.name
+paxton I-actor.name
+in _in
+the _the
+movie _movie
+apollo B-movie.name
+thirteen I-movie.name
+
+was _was
+kevin B-actor.name
+bacon I-actor.name
+in _in
+the _the
+movie _movie
+apollo B-movie.name
+thirteen I-movie.name
+
+find _find
+movies _movies
+about _about
+dancing B-movie.subject
+
+search _search
+for _for
+movies _movies
+about _about
+dancing B-movie.subject
+
+show _show
+will B-actor.name
+ferrell I-actor.name
+films _films
+
+will B-actor.name
+ferrell I-actor.name
+movies _movies
+
+what _what
+movies _movies
+has _has
+will B-actor.name
+ferrell I-actor.name
+appeared _appeared
+in _in
+
+find _find
+russian B-movie.language
+movies _movies
+
+show _show
+me _me
+the _the
+movie _movie
+pretty B-movie.name
+women I-movie.name
+<unk> I-movie.name
+i _i
+can _can
+see _see
+who _who
+starred _starred
+in _in
+the _the
+movie _movie
+
+<unk> _please
+
+the _the
+movie _movie
+is _is
+called _called
+big B-movie.name
+
+will B-person.name
+smith I-person.name
+acting _acting
+<unk> _for
+
+how _how
+many _many
+movies _movies
+did _did
+<unk> B-director.name
+<unk> I-director.name
+do _do
+
+movies _movies
+and _and
+gross _gross
+<unk> _revenue
+
+search _search
+for _for
+tim B-director.name
+burton I-director.name
+movies _movies
+in _in
+french B-movie.language
+
+exhibit _exhibit
+all _all
+details _details
+of _of
+original _original
+finding B-movie.name
+nemo I-movie.name
+movie _movie
+
+finding B-movie.name
+nemo I-movie.name
+movie _movie
+
+find _find
+the _the
+movie _movie
+finding B-movie.name
+nemo I-movie.name
+
+i _i
+am _am
+looking _looking
+for _for
+information _information
+on _on
+the _the
+movie _movie
+finding B-movie.name
+nemo I-movie.name
+
+show _show
+me _me
+details _details
+for _for
+the _the
+movie _movie
+finding B-movie.name
+nemo I-movie.name
+
+what _what
+did _did
+andrew B-director.name
+stanton I-director.name
+direct _direct
+
+show _show
+me _me
+some _some
+other _other
+movies _movies
+directed _directed
+by _by
+andrew B-director.name
+stanton I-director.name
+
+display _display
+albert B-actor.name
+brooks I-actor.name
+movie _movie
+
+show _show
+a _a
+movie _movie
+with _with
+albert B-actor.name
+brooks I-actor.name
+in _in
+the _the
+cast _cast
+
+what _what
+other _other
+films _films
+has _has
+sergio B-director.name
+leone I-director.name
+directed _directed
+
+what _what
+movies _movies
+has _has
+george B-producer.name
+harrison B-actor.name
+produced _produced
+
+what _what
+has _has
+charlie B-actor.name
+sheen I-actor.name
+starred _starred
+in _in
+
+please _please
+find _find
+the _the
+movies _movies
+in _in
+which _which
+clive B-actor.name
+owen I-actor.name
+has _has
+appeared _appeared
+
+in _in
+which _which
+movies _movies
+has _has
+clive B-actor.name
+owen I-actor.name
+appear _appear
+
+spike B-director.name
+lee I-director.name
+directed _directed
+what _what
+movie _movie
+
+search _search
+for _for
+movies _movies
+directed _directed
+by _by
+spike B-director.name
+lee I-director.name
+
+movie _movie
+release _release
+dates _dates
+
+director _director
+information _information
+for _for
+movies _movies
+
+movies _movies
+by _by
+director _director
+
+please _please
+list _list
+all _all
+movies _movies
+not _not
+rated _rated
+pg B-rating.name
+
+find _find
+movies _movies
+
+i _i
+want _want
+a _a
+list _list
+of _of
+english B-movie.language
+speaking I-movie.language
+movies _movies
+
+a _a
+list _list
+of _of
+movies _movies
+made _made
+in _in
+america B-country.name
+
+are _are
+there _there
+any _any
+movies _movies
+produced _produced
+in _in
+the B-country.name
+united I-country.name
+states I-country.name
+
+show _show
+english B-movie.language
+movies _movies
+
+search _search
+english B-movie.language
+movies _movies
+
+comedy B-movie.genre
+
+find _find
+a _a
+comedy B-movie.genre
+
+watch _watch
+comedy B-movie.genre
+movies _movies
+
+get _get
+horror B-movie.genre
+films _films
+
+show _show
+me _me
+horror B-movie.genre
+movies _movies
+
+i _i
+want _want
+to _to
+see _see
+a _a
+listing _listing
+of _of
+horror B-movie.genre
+movies _movies
+
+show _show
+actor _actor
+bruce B-actor.name
+willis I-actor.name
+movies _movies
+
+which _which
+movies _movies
+did _did
+bruce B-actor.name
+willis I-actor.name
+star _star
+in _in
+
+list _list
+movies _movies
+with _with
+bruce B-actor.name
+willis I-actor.name
+
+show _show
+me _me
+movies _movies
+made _made
+in _in
+canada B-country.name
+
+can _can
+i _i
+watch _watch
+a _a
+canadian B-country.name
+film _film
+
+see _see
+canadian B-country.name
+movies _movies
+
+search _search
+for _for
+information _information
+about _about
+canadian B-country.name
+movies _movies
+
+I _I
+d _d
+like _like
+to _to
+see _see
+some _some
+italian B-country.name
+films _films
+
+show _show
+me _me
+something _something
+italian B-country.name
+- _-
+made _made
+
+i _i
+want _want
+to _to
+see _see
+a _a
+movie _movie
+from _from
+spain B-country.name
+
+find _find
+movies _movies
+from _from
+spain B-country.name
+
+spain B-country.name
+country B-country.name
+movies _movies
+
+display _display
+a _a
+list _list
+of _of
+spanish B-movie.language
+films _films
+
+spanish B-movie.language
+movie _movie
+listing _listing
+
+spanish B-movie.language
+movies _movies
+
+find _find
+actors _actors
+in _in
+movies _movies
+
+search _search
+by _by
+actors _actors
+
+find _find
+some _some
+romantic B-movie.genre
+movies _movies
+
+i _i
+want _want
+to _to
+see _see
+a _a
+movie _movie
+in _in
+french B-movie.language
+
+<unk> B-actor.name
+<unk> I-actor.name
+movies _movies
+
+find _find
+movies _movies
+with _with
+quentin B-director.name
+<unk> I-director.name
+as _as
+director _director
+
+england B-country.name
+movies _movies
+
+england B-country.name
+movies _movies
+please _please
+
+find _find
+<unk> _some
+<unk> B-movie.genre
+movies _movies
+
+show _show
+me _me
+what _what
+richard B-director.name
+lester I-director.name
+directed _directed
+
+get _get
+films _films
+in _in
+hindi B-movie.language
+
+show _show
+me _me
+movies _movies
+from _from
+india B-country.name
+
+what _what
+is _is
+a _a
+british B-movie.language
+horror B-movie.genre
+movie _movie
+
+i _i
+want _want
+to _to
+watch _watch
+an _an
+r B-rating.name
+rated _rated
+comedy B-movie.genre
+
+list _list
+of _of
+french B-movie.language
+language I-movie.language
+comedies B-movie.genre
+
+look _look
+for _for
+dirty B-movie.name
+dancing I-movie.name
+movie _movie
+with _with
+jennifer B-actor.name
+grey I-actor.name
+
+tell _tell
+me _me
+in _in
+detail _detail
+about _about
+the _the
+movie _movie
+dirty B-movie.name
+dancing I-movie.name
+
+tell _tell
+about _about
+movie _movie
+dirty B-movie.name
+dancing I-movie.name
+
+can _can
+i _i
+see _see
+a _a
+list _list
+of _of
+bette B-actor.name
+midler I-actor.name
+movies _movies
+
+list _list
+of _of
+movies _movies
+starring _starring
+bette B-actor.name
+midler I-actor.name
+
+show _show
+me _me
+all _all
+of _of
+anne B-actor.name
+hathaway I-actor.name
+s _s
+movies _movies
+
+what _what
+movies _movies
+has _has
+sandra B-actor.name
+bullock I-actor.name
+produced _produced
+
+find _find
+me _me
+movies _movies
+from _from
+<unk> B-country.name
+
+what _what
+movies _movies
+has _has
+robert B-director.name
+redford I-director.name
+been _been
+in _in
+
+dirty B-movie.name
+dancing I-movie.name
+info _info
+
+dirty B-movie.name
+dancing I-movie.name
+
+give _give
+a _a
+short B-movie.genre
+bio _bio
+for _for
+dirty B-movie.name
+dancing I-movie.name
+
+about _about
+dirty B-movie.name
+dancing I-movie.name
+
+movies _movies
+from _from
+japan B-country.name
+
+show _show
+movies _movies
+from _from
+japan B-country.name
+
+list _list
+japanese B-country.name
+movies _movies
+
+show _show
+me _me
+japanese B-country.name
+movies _movies
+
+give _give
+me _me
+a _a
+list _list
+of _of
+some _some
+japanese B-movie.language
+movies _movies
+
+give _give
+me _me
+a _a
+list _list
+of _of
+japanese B-country.name
+movies _movies
+
+japanese B-country.name
+movies _movies
+
+show _show
+me _me
+japanese B-movie.language
+language I-movie.language
+movies _movies
+
+which _which
+films _films
+are _are
+spoken _spoken
+in _in
+japanese B-movie.language
+
+miramax B-producer.name
+films _films
+only _only
+
+show _show
+movies _movies
+by _by
+miramax B-producer.name
+
+search _search
+sandra B-actor.name
+bullock I-actor.name
+movies _movies
+
+watch _watch
+sandra B-actor.name
+bullock I-actor.name
+movies _movies
+
+find _find
+movies _movies
+about _about
+vampires B-movie.subject
+
+find _find
+movies _movies
+having _having
+vampires B-movie.subject
+
+will B-actor.name
+smith I-actor.name
+movies _movies
+
+cars B-movie.subject
+movie _movie
+
+what _what
+movies _movies
+did _did
+darla B-producer.name
+anderson I-producer.name
+produce _produce
+
+what _what
+films _films
+are _are
+made _made
+by _by
+paramount B-producer.name
+
+show _show
+me _me
+movies _movies
+by _by
+paramount B-producer.name
+
+what _what
+movies _movies
+has _has
+paramount B-producer.name
+released _released
+
+show _show
+all _all
+movies _movies
+from _from
+turkey B-country.name
+
+show _show
+me _me
+movies _movies
+produced _produced
+by _by
+bruce B-producer.name
+lee I-producer.name
+
+is _is
+parenthood B-movie.name
+a _a
+drama B-movie.genre
+
+i _i
+want _want
+to _to
+see _see
+an _an
+kevin B-actor.name
+james I-actor.name
+film _film
+tonight _tonight
+
+find _find
+films _films
+from _from
+china B-country.name
+
+get _get
+films _films
+from _from
+china B-country.name
+
+i _i
+d _d
+like _like
+to _to
+watch _watch
+a _a
+movie _movie
+made _made
+in _in
+china B-country.name
+
+list _list
+some _some
+movies _movies
+from _from
+china B-country.name
+
+chinese B-country.name
+films _films
+
+show _show
+me _me
+other _other
+chinese B-movie.language
+movies _movies
+
+show _show
+me _me
+chinese B-movie.language
+movies _movies
+
+what _what
+movies _movies
+have _have
+a _a
+pg-13 B-rating.name
+rating _rating
+
+please _please
+list _list
+movies _movies
+that _that
+are _are
+rated _rated
+pg-13 B-rating.name
+
+i _i
+need _need
+a _a
+g B-rating.name
+rating _rating
+<unk> _mean
+i _i
+can _can
+take _take
+the _the
+kids _kids
+
+find _find
+a _a
+g B-rating.name
+rated _rated
+movie _movie
+
+find _find
+g B-rating.name
+movies _movies
+
+find _find
+g B-rating.name
+movies _movies
+
+i _i
+want _want
+rated _rated
+g B-rating.name
+movies _movies
+
+look _look
+up _up
+g B-rating.name
+rated _rated
+movies _movies
+
+i _i
+am _am
+searching _searching
+for _for
+any _any
+g B-rating.name
+rated _rated
+movies _movies
+for _for
+my _my
+children _children
+to _to
+view _view
+
+rated _rated
+g B-rating.name
+movies _movies
+for _for
+family _family
+watching _watching
+
+find _find
+g B-rating.name
+rated _rated
+movies _movies
+
+are _are
+there _there
+any _any
+movies _movies
+rated _rated
+g B-rating.name
+playing _playing
+
+i _i
+want _want
+to _to
+see _see
+movies _movies
+rated _rated
+g B-rating.name
+
+find _find
+movies _movies
+rated _rated
+g B-rating.name
+
+show _show
+me _me
+movies _movies
+with _with
+g B-rating.name
+rating _rating
+
+did _did
+robert B-director.name
+wise I-director.name
+direct _direct
+any _any
+other _other
+musicals B-movie.genre
+
+bruce B-producer.name
+lee I-producer.name
+produced _produced
+movie _movie
+listing _listing
+
+what _what
+was _was
+the _the
+last _last
+movie _movie
+made _made
+by _by
+robert B-director.name
+wise I-director.name
+
+find _find
+movies _movies
+produced _produced
+by _by
+mgm B-producer.name
+
+show _show
+me _me
+british B-country.name
+made _made
+movies _movies
+
+movies _movies
+from _from
+the B-country.name
+uk I-country.name
+
+find _find
+me _me
+movies _movies
+from _from
+the B-country.name
+uk I-country.name
+
+can _can
+you _you
+list _list
+ron B-director.name
+howard I-director.name
+movie _movie
+production _production
+
+i _i
+need _need
+to _to
+know _know
+the _the
+movies _movies
+produce _produce
+by _by
+ron B-director.name
+howard I-director.name
+
+did _did
+clint B-director.name
+eastwood I-director.name
+direct _direct
+any _any
+other _other
+movies _movies
+<unk> B-movie.gross_revenue
+million I-movie.gross_revenue
+<unk> I-movie.gross_revenue
+<unk> I-movie.gross_revenue
+
+find _find
+movies _movies
+directed _directed
+by _by
+clint B-director.name
+eastwood I-director.name
+
+what _what
+movies _movies
+have _have
+been _been
+directed _directed
+by _by
+clint B-director.name
+eastwood I-director.name
+
+list _list
+all _all
+movies _movies
+that _that
+were _were
+directed _directed
+by _by
+clint B-director.name
+eastwood I-director.name
+
+what _what
+movies _movies
+has _has
+clint B-director.name
+eastwood I-director.name
+directed _directed
+
+show _show
+movies _movies
+directed _directed
+by _by
+clint B-director.name
+eastwood I-director.name
+
+find _find
+all _all
+films _films
+by _by
+<unk> B-director.name
+<unk> I-director.name
+
+i _i
+want _want
+to _to
+select _select
+the _the
+option _option
+to _to
+search _search
+for _for
+movies _movies
+produced _produced
+by _by
+stephen B-producer.name
+spielberg I-producer.name
+
+i _i
+would _would
+like _like
+to _to
+search _search
+for _for
+movies _movies
+produced _produced
+by _by
+stephen B-director.name
+speilberg I-director.name
+
+show _show
+me _me
+japanese B-country.name
+horror B-movie.genre
+movies _movies
+
+i _i
+would _would
+like _like
+to _to
+see _see
+movies _movies
+ron B-director.name
+howard I-director.name
+directed _directed
+
+movies _movies
+by _by
+stephen B-director.name
+spielberg I-director.name
+
+movies _movies
+by _by
+stephen B-director.name
+spielberg I-director.name
+
+what _what
+movies _movies
+did _did
+stephen B-director.name
+spielberg I-director.name
+direct _direct
+
+list _list
+steven B-director.name
+spielberg I-director.name
+movies _movies
+
+steven B-director.name
+spielberg I-director.name
+movie _movie
+
+steven B-director.name
+spielberg I-director.name
+movies _movies
+please _please
+
+directed _directed
+by _by
+steven B-director.name
+spielberg I-director.name
+
+find _find
+the _the
+steven B-director.name
+spielberg I-director.name
+movies _movies
+
+find _find
+movies _movies
+from _from
+steven B-producer.name
+spielberg I-producer.name
+
+i _i
+would _would
+like _like
+to _to
+watch _watch
+a _a
+movie _movie
+directed _directed
+by _by
+eddie B-director.name
+murphy I-director.name
+
+the B-movie.name
+camp I-movie.name
+
+watch _watch
+sandra B-actor.name
+bullock I-actor.name
+the B-movie.name
+blind I-movie.name
+side I-movie.name
+
+i _i
+want _want
+to _to
+see _see
+movies _movies
+with _with
+hugh B-actor.name
+jackman I-actor.name
+
+list _list
+movies _movies
+with _with
+kevin B-actor.name
+<unk> I-actor.name
+
+look _look
+for _for
+movies _movies
+from _from
+france B-country.name
+
+can _can
+you _you
+show _show
+me _me
+movies _movies
+that _that
+were _were
+made _made
+in _in
+france B-country.name
+
+find _find
+me _me
+any _any
+movies _movies
+that _that
+were _were
+made _made
+in _in
+france B-country.name
+
+french B-country.name
+movies _movies
+please _please
+
+french B-country.name
+movies _movies
+
+find _find
+movies _movies
+produced _produced
+by _by
+
+movies _movies
+by _by
+producers _producers
+
+display _display
+movies _movies
+produced _produced
+by _by
+
+find _find
+movies _movies
+produced _produced
+by _by
+mosfilm B-producer.name
+
+what _what
+was _was
+kristen B-actor.name
+stewart I-actor.name
+s _s
+first _first
+movie _movie
+
+get _get
+me _me
+movies _movies
+directed _directed
+by _by
+<unk> B-movie.name
+july I-movie.name
+
+tom B-actor.name
+hanks I-actor.name
+movies _movies
+
+show _show
+me _me
+movies _movies
+with _with
+tom B-actor.name
+hanks I-actor.name
+
+i _i
+am _am
+trying _trying
+to _to
+find _find
+a _a
+list _list
+of _of
+movies _movies
+with _with
+tom B-actor.name
+hanks I-actor.name
+
+provide _provide
+movies _movies
+directed _directed
+by _by
+oliver B-director.name
+stone I-director.name
+please _please
+
+i _i
+want _want
+to _to
+look _look
+for _for
+movies _movies
+produced _produced
+by _by
+albert B-producer.name
+ruddy I-producer.name
+
+what _what
+are _are
+all _all
+of _of
+the _the
+movies _movies
+produced _produced
+by _by
+albert B-producer.name
+ruddy I-producer.name
+
+movies _movies
+produced _produced
+by _by
+yash B-producer.name
+chopra I-producer.name
+
+what _what
+did _did
+brad B-director.name
+pitt I-director.name
+<unk> _direct
+
+bring _bring
+up _up
+all _all
+brad B-producer.name
+pitt I-producer.name
+produced _produced
+movies _movies
+
+show _show
+all _all
+movies _movies
+that _that
+<unk> B-director.name
+<unk> I-director.name
+directed _directed
+
+i _i
+need _need
+a _a
+list _list
+of _of
+all _all
+the _the
+movies _movies
+directed _directed
+by _by
+james B-director.name
+cameron I-director.name
+
+give _give
+me _me
+a _a
+list _list
+of _of
+all _all
+the _the
+movies _movies
+directed _directed
+by _by
+james B-director.name
+cameron I-director.name
+
+james B-director.name
+cameron I-director.name
+movies _movies
+produced _produced
+
+movies _movies
+produced _produced
+by _by
+james B-producer.name
+cameron I-producer.name
+
+what _what
+films _films
+have _have
+been _been
+produced _produced
+by _by
+warner B-producer.name
+bros. I-producer.name
+
+find _find
+movies _movies
+produced _produced
+by _by
+warner B-producer.name
+bros. I-producer.name
+
+what _what
+movies _movies
+have _have
+been _been
+produced _produced
+by _by
+warner B-producer.name
+bros. I-producer.name
+
+show _show
+me _me
+movies _movies
+by _by
+wb B-producer.name
+
+give _give
+me _me
+information _information
+about _about
+finding B-movie.name
+nemo I-movie.name
+
+i _i
+want _want
+information _information
+about _about
+finding B-movie.name
+nemo I-movie.name
+
+show _show
+me _me
+finding B-movie.name
+nemo I-movie.name
+
+finding B-movie.name
+nemo I-movie.name
+bing _bing
+
+search _search
+finding B-movie.name
+nemo I-movie.name
+
+show _show
+information _information
+page _page
+for _for
+finding B-movie.name
+nemo I-movie.name
+
+the B-movie.name
+campaign I-movie.name
+information _information
+
+more _more
+information _information
+on _on
+<unk> B-movie.name
+thirteen I-movie.name
+
+<unk> _about
+apollo B-movie.name
+thirteen I-movie.name
+
+has _has
+kristen B-actor.name
+stewart I-actor.name
+starred _starred
+in _in
+movies _movies
+other _other
+than _than
+twilight B-movie.name
+
+show _show
+me _me
+kristen B-actor.name
+stewart I-actor.name
+movies _movies
+
+what _what
+movies _movies
+has _has
+kristen B-actor.name
+<unk> I-actor.name
+starred _starred
+in _in
+
+lionsgate B-producer.name
+movies _movies
+
+show _show
+lionsgate B-producer.name
+movies _movies
+
+show _show
+movies _movies
+made _made
+by _by
+production _production
+lionsgate B-producer.name
+
+give _give
+me _me
+something _something
+by _by
+charles B-director.name
+vidor I-director.name
+
+show _show
+charles B-director.name
+vidor I-director.name
+movie _movie
+
+what _what
+film _film
+did _did
+charles B-director.name
+vidor I-director.name
+direct _direct
+
+which _which
+movies _movies
+have _have
+been _been
+made _made
+outside B-country.name
+the I-country.name
+united I-country.name
+states I-country.name
+
+find _find
+me _me
+<unk> B-rating.name
+movies _movies
+
+display _display
+7 B-producer.name
+arts I-producer.name
+movies _movies
+
+korean B-country.name
+movie _movie
+
+what _what
+other _other
+movies _movies
+did _did
+roberto B-actor.name
+benigni I-actor.name
+star _star
+in _in
+
+i _i
+want _want
+to _to
+see _see
+movies _movies
+starring _starring
+denzel B-actor.name
+washington I-actor.name
+please _please
+
+list _list
+the _the
+kareena B-actor.name
+s _s
+movie _movie
+
+i _i
+want _want
+to _to
+watch _watch
+a _a
+drama B-movie.genre
+made _made
+in _in
+turkey B-country.name
+
+jennifer B-actor.name
+<unk> I-actor.name
+played _played
+in _in
+what _what
+movies _movies
+
+show _show
+me _me
+all _all
+of _of
+the _the
+movies _movies
+directed _directed
+by _by
+woody B-director.name
+allen I-director.name
+
+show _show
+robert B-director.name
+wise I-director.name
+movies _movies
+
+want _want
+to _to
+see _see
+robert B-director.name
+wise I-director.name
+movies _movies
+
+what _what
+movies _movies
+has _has
+robert B-director.name
+wise I-director.name
+directed _directed
+
+what _what
+movies _movies
+have _have
+robert B-director.name
+wise I-director.name
+directed _directed
+
+where _where
+can _can
+i _i
+find _find
+a _a
+list _list
+of _of
+movies _movies
+produced _produced
+by _by
+chris B-producer.name
+nolan I-producer.name
+
+what _what
+movies _movies
+has _has
+brad B-actor.name
+pitt I-actor.name
+been _been
+in _in
+
+what _what
+are _are
+the _the
+movies _movies
+brad B-actor.name
+pitt I-actor.name
+had _had
+been _been
+in _in
+
+what _what
+are _are
+some _some
+movies _movies
+with _with
+brad B-actor.name
+pitt I-actor.name
+
+find _find
+an _an
+r B-rating.name
+rated _rated
+movie _movie
+
+show _show
+me _me
+r B-rating.name
+rated _rated
+movies _movies
+
+give _give
+me _me
+a _a
+list _list
+of _of
+r B-rating.name
+rated _rated
+movies _movies
+
+look _look
+up _up
+r B-rating.name
+rated _rated
+movies _movies
+
+i _i
+want _want
+only _only
+r B-rating.name
+rated _rated
+movies _movies
+
+i _i
+want _want
+to _to
+see _see
+a _a
+list _list
+of _of
+rated _rated
+r B-rating.name
+movies _movies
+
+show _show
+me _me
+only _only
+movies _movies
+with _with
+a _a
+rating _rating
+of _of
+r B-rating.name
+
+please _please
+look _look
+for _for
+movies _movies
+with _with
+an _an
+r B-rating.name
+rating _rating
+
+show _show
+me _me
+movies _movies
+rated _rated
+r B-rating.name
+
+look _look
+for _for
+movies _movies
+with _with
+an _an
+r B-rating.name
+rating _rating
+
+give _give
+me _me
+a _a
+list _list
+of _of
+all _all
+movies _movies
+that _that
+are _are
+rated _rated
+r B-rating.name
+
+i _i
+want _want
+to _to
+watch _watch
+movies _movies
+from _from
+norway B-country.name
+
+can _can
+i _i
+have _have
+a _a
+list _list
+of _of
+spanish B-movie.language
+speaking I-movie.language
+movies _movies
+
+show _show
+me _me
+movies _movies
+made _made
+in _in
+mexico B-movie.release_region
+
+show _show
+me _me
+the _the
+movie _movie
+<unk> _about
+zombies B-movie.subject
+
+what _what
+movies _movies
+have _have
+zombies B-movie.subject
+in _in
+them _them
+
+show _show
+me _me
+movies _movies
+about _about
+zombies B-movie.subject
+
+show _show
+me _me
+movies _movies
+about _about
+zombies B-movie.subject
+
+show _show
+me _me
+<unk> _movies
+by _by
+<unk> B-director.name
+<unk> I-director.name
+
+show _show
+ridley B-director.name
+scott I-director.name
+s _s
+filmography _filmography
+
+find _find
+ridley B-director.name
+scott I-director.name
+movies _movies
+
+can _can
+you _you
+show _show
+me _me
+movies _movies
+directed _directed
+by _by
+ridley B-director.name
+scott I-director.name
+
+list _list
+german B-movie.language
+movies _movies
+
+german B-country.name
+movies _movies
+
+find _find
+action B-movie.genre
+films _films
+
+find _find
+some _some
+action B-movie.genre
+movies _movies
+
+list _list
+dredd B-movie.name
+movie _movie
+
+show _show
+me _me
+george B-producer.name
+lucas I-producer.name
+movies _movies
+
+find _find
+movies _movies
+directed _directed
+by _by
+george B-director.name
+lucas I-director.name
+
+produced _produced
+by _by
+
+please _please
+find _find
+movies _movies
+produced _produced
+by _by
+morgan B-producer.name
+freeman I-producer.name
+
+please _please
+look _look
+up _up
+movies _movies
+produced _produced
+by _by
+morgan B-producer.name
+freeman I-producer.name
+
+search _search
+for _for
+movies _movies
+produced _produced
+by _by
+morgan B-producer.name
+freeman I-producer.name
+
+find _find
+movies _movies
+produced _produced
+by _by
+morgan B-producer.name
+freeman I-producer.name
+
+look _look
+up _up
+movies _movies
+produced _produced
+by _by
+morgan B-producer.name
+freeman I-producer.name
+
+what _what
+movies _movies
+has _has
+meryl B-actor.name
+streep I-actor.name
+starred _starred
+in _in
+
+show _show
+me _me
+the _the
+movies _movies
+directed _directed
+by _by
+the _the
+director _director
+of _of
+this _this
+movie _movie
+
+i _i
+want _want
+to _to
+see _see
+movies _movies
+made _made
+in _in
+russia B-country.name
+
+look _look
+up _up
+star B-movie.name
+wars I-movie.name
+four I-movie.name
+movie _movie
+
+display _display
+all _all
+details _details
+about _about
+star B-movie.name
+wars I-movie.name
+- I-movie.name
+a I-movie.name
+new I-movie.name
+hope I-movie.name
+movie _movie
+
+get _get
+all _all
+details _details
+about _about
+star B-movie.name
+wars I-movie.name
+- I-movie.name
+a I-movie.name
+new I-movie.name
+hope I-movie.name
+movie _movie
+
+star B-movie.name
+wars I-movie.name
+episode I-movie.name
+four I-movie.name
+
+i _i
+want _want
+star B-movie.name
+wars I-movie.name
+four I-movie.name
+main _main
+page _page
+
+search _search
+star B-movie.name
+wars I-movie.name
+four I-movie.name
+
+find _find
+me _me
+<unk> _names
+of _of
+info _info
+related _related
+to _to
+star B-movie.name
+wars I-movie.name
+four I-movie.name
+
+get _get
+details _details
+of _of
+in B-movie.name
+july I-movie.name
+movie _movie
+
+find _find
+details _details
+of _of
+in B-movie.name
+july I-movie.name
+movie _movie
+
+show _show
+details _details
+of _of
+in B-movie.name
+july I-movie.name
+movie _movie
+
+tell _tell
+me _me
+about _about
+in B-movie.name
+july I-movie.name
+movie _movie
+
+look _look
+up _up
+the _the
+movie _movie
+in B-movie.name
+july I-movie.name
+
+display _display
+information _information
+for _for
+the _the
+movie _movie
+title _title
+in B-movie.name
+july I-movie.name
+
+movie _movie
+in B-movie.name
+july I-movie.name
+data _data
+
+where _where
+can _can
+i _i
+find _find
+the _the
+movie _movie
+aankhen B-movie.name
+in _in
+hindi B-movie.language
+
+display _display
+julia B-person.name
+roberts I-person.name
+films _films
+
+list _list
+the _the
+movies _movies
+that _that
+have _have
+the _the
+actress _actress
+angelina B-actor.name
+jolie I-actor.name
+
+<unk> B-actor.name
+<unk> I-actor.name
+movies _movies
+
+what _what
+movies _movies
+did _did
+<unk> B-director.name
+<unk> I-director.name
+direct _direct
+
+i _i
+would _would
+like _like
+to _to
+view _view
+movies _movies
+produced _produced
+by _by
+clint B-producer.name
+eastwood I-producer.name
+
+list _list
+all _all
+movies _movies
+about _about
+horses B-movie.subject
+
+find _find
+all _all
+johnny B-actor.name
+depp I-actor.name
+movies _movies
+
+search _search
+by _by
+director _director
+
+search _search
+by _by
+director _director
+
+is _is
+there _there
+any _any
+upcoming _upcoming
+movies _movies
+from _from
+warner B-producer.name
+brothers I-producer.name
+
+bring _bring
+up _up
+movies _movies
+with _with
+ice B-movie.subject
+skating I-movie.subject
+in _in
+it _it
+
+find _find
+<unk> _movies
+released _released
+comedies B-movie.genre
+from _from
+england B-country.name
+
+i _i
+need _need
+info _info
+on _on
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+
+what _what
+is _is
+the _the
+houses _houses
+at _at
+the _the
+end B-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+about _about
+
+give _give
+me _me
+more _more
+facts _facts
+about _about
+the _the
+movie _movie
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+in _in
+detail _detail
+
+i _i
+would _would
+like _like
+to _to
+know _know
+in _in
+detail _detail
+about _about
+the _the
+movie _movie
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+
+display _display
+movie _movie
+information _information
+for _for
+the _the
+film _film
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+
+films _films
+with _with
+chinese B-movie.language
+
+i _i
+want _want
+to _to
+watch _watch
+a _a
+movie _movie
+in _in
+chinese B-movie.language
+
+find _find
+movies _movies
+produced _produced
+and _and
+directed _directed
+by _by
+tyler B-director.name
+perry I-director.name
+
+tom B-actor.name
+cruise I-actor.name
+movies _movies
+please _please
+
+i _i
+want _want
+tom B-actor.name
+cruise I-actor.name
+movies _movies
+please _please
+
+which _which
+movies _movies
+star _star
+tom B-actor.name
+cruise I-actor.name
+
+which _which
+movies _movies
+do _do
+tom B-actor.name
+cruise I-actor.name
+play _play
+in _in
+
+find _find
+end B-movie.name
+of I-movie.name
+watch I-movie.name
+
+search _search
+by _by
+genre _genre
+
+looking _looking
+for _for
+movies _movies
+of _of
+yash B-director.name
+chopra I-director.name
+
+find _find
+me _me
+information _information
+about _about
+the B-movie.name
+campaign I-movie.name
+movie _movie
+
+information _information
+for _for
+movie _movie
+the B-movie.name
+campaign I-movie.name
+
+show _show
+me _me
+info _info
+on _on
+the _the
+movie _movie
+the B-movie.name
+campaign I-movie.name
+please _please
+
+i _i
+need _need
+to _to
+see _see
+all _all
+the _the
+details _details
+about _about
+the _the
+movie _movie
+the B-movie.name
+campaign I-movie.name
+
+sort _sort
+all _all
+pg B-rating.name
+movies _movies
+
+pg B-rating.name
+rated _rated
+movies _movies
+
+<unk> _get
+a _a
+list _list
+of _of
+pg B-rating.name
+movies _movies
+please _please
+
+give _give
+me _me
+a _a
+list _list
+of _of
+pg B-rating.name
+movies _movies
+
+can _can
+you _you
+find _find
+me _me
+a _a
+list _list
+of _of
+pg B-rating.name
+rated _rated
+movies _movies
+to _to
+watch _watch
+
+show _show
+me _me
+a _a
+list _list
+of _of
+pg B-rating.name
+rated _rated
+movies _movies
+
+find _find
+movies _movies
+with _with
+a _a
+pg B-rating.name
+rating _rating
+
+what _what
+movies _movies
+are _are
+pg B-rating.name
+
+movies _movies
+by _by
+alfred B-director.name
+hitchcock I-director.name
+
+what _what
+movies _movies
+did _did
+alfred B-director.name
+hitchcock I-director.name
+make _make
+
+watch _watch
+<unk> B-rating.name
+movies _movies
+
+i _i
+want _want
+to _to
+see _see
+any _any
+current _current
+movies _movies
+starring _starring
+tom B-actor.name
+hanks I-actor.name
+
+i _i
+want _want
+a _a
+list _list
+of _of
+recent _recent
+movies _movies
+rated _rated
+pg B-rating.name
+
+give _give
+me _me
+a _a
+list _list
+of _of
+recent _recent
+movies _movies
+rated _rated
+pg B-rating.name
+
+ray B-producer.name
+stark I-producer.name
+produced _produced
+what _what
+other _other
+movies _movies
+
+what _what
+is _is
+spielberg B-person.name
+s _s
+latest _latest
+movie _movie
+
+please _please
+find _find
+movies _movies
+directed _directed
+by _by
+tom B-director.name
+hanks I-director.name
+
+are _are
+there _there
+any _any
+recent _recent
+movies _movies
+that _that
+are _are
+polish B-movie.language
+speaking I-movie.language
+
+what _what
+movies _movies
+has _has
+tom B-actor.name
+cruise I-actor.name
+been _been
+in _in
+recently _recently
+
+search _search
+for _for
+new B-country.name
+movies _movies
+
+search _search
+for _for
+in B-movie.name
+july I-movie.name
+
+watch _watch
+in B-movie.name
+july I-movie.name
+online _online
+
+search _search
+for _for
+information _information
+about _about
+lionsgate B-producer.name
+
+lionsgate B-producer.name
+info _info
+
+find _find
+information _information
+about _about
+paramount B-producer.name
+studios I-producer.name
+
+who _who
+is _is
+ray B-person.name
+stark I-person.name
+
+find _find
+information _information
+on _on
+charles B-person.name
+vidor I-person.name
+
+i _i
+want _want
+to _to
+look _look
+up _up
+information _information
+about _about
+tom B-person.name
+cruise I-person.name
+
+can _can
+you _you
+please _please
+search _search
+details _details
+about _about
+will B-person.name
+ferrell I-person.name
+
+will B-person.name
+ferrell I-person.name
+biography _biography
+
+show _show
+will B-person.name
+ferrell I-person.name
+biography _biography
+
+show _show
+me _me
+a _a
+complete _complete
+biography _biography
+of _of
+will B-person.name
+ferrell I-person.name
+
+show _show
+me _me
+information _information
+on _on
+will B-person.name
+ferrell I-person.name
+
+show _show
+me _me
+will B-person.name
+ferrell I-person.name
+s _s
+bio _bio
+
+get _get
+info _info
+on _on
+kristen B-person.name
+stewart I-person.name
+
+does _does
+kristen B-person.name
+stewart I-person.name
+have _have
+a _a
+<unk> _movie
+page _page
+
+where _where
+can _can
+i _i
+find _find
+information _information
+about _about
+kristen B-person.name
+stewart I-person.name
+
+jennifer B-actor.name
+aniston I-actor.name
+bio _bio
+
+i _i
+want _want
+to _to
+see _see
+spielberg B-person.name
+s _s
+main _main
+page _page
+
+steven B-person.name
+spielberg I-person.name
+summary _summary
+
+about _about
+steven B-person.name
+spielberg I-person.name
+
+find _find
+me _me
+bio _bio
+details _details
+for _for
+steven B-person.name
+spielberg I-person.name
+
+bio _bio
+for _for
+steven B-person.name
+spielberg I-person.name
+
+show _show
+me _me
+alfred B-director.name
+hitchcock I-director.name
+
+i _i
+want _want
+more _more
+information _information
+about _about
+alfred B-person.name
+<unk> I-person.name
+s _s
+biography _biography
+
+all _all
+info _info
+hitchcock B-person.name
+
+find _find
+the _the
+name _name
+of _of
+the _the
+producer _producer
+of _of
+avatar B-movie.name
+
+producer _producer
+hitch B-movie.name
+
+who _who
+produces _produces
+hitch B-movie.name
+
+production _production
+company _company
+for _for
+transformers B-movie.name
+
+what _what
+company _company
+made _made
+et B-movie.name
+
+what _what
+was _was
+the _the
+production _production
+company _company
+for _for
+et B-movie.name
+
+who _who
+produces _produces
+cars B-movie.name
+
+can _can
+you _you
+find _find
+who _who
+produced _produced
+cars B-movie.name
+
+production _production
+company _company
+for _for
+devil I-movie.name
+
+who _who
+produced _produced
+the _the
+movie _movie
+steel B-movie.name
+magnolias I-movie.name
+
+who _who
+produced _produced
+avatar B-movie.name
+
+i _i
+want _want
+to _to
+know _know
+the _the
+producer _producer
+of _of
+avatar B-movie.name
+
+who _who
+produced _produced
+avatar B-movie.name
+
+who _who
+produced _produced
+avatar B-movie.name
+
+avatar B-movie.name
+producer _producer
+
+i _i
+would _would
+like _like
+to _to
+know _know
+who _who
+produced _produced
+the _the
+movie _movie
+avatar B-movie.name
+
+who _who
+produced _produced
+the _the
+movie _movie
+avatar B-movie.name
+
+who _who
+are _are
+the _the
+producers _producers
+for _for
+the _the
+movie _movie
+avatar B-movie.name
+
+what _what
+is _is
+grease B-movie.name
+s _s
+producer _producer
+
+who _who
+produced _produced
+grease B-movie.name
+
+who _who
+produced _produced
+the _the
+movie _movie
+my B-movie.name
+big I-movie.name
+fat I-movie.name
+greek I-movie.name
+wedding I-movie.name
+
+who _who
+produced _produced
+pretty B-movie.name
+woman I-movie.name
+
+tell _tell
+me _me
+the _the
+producer _producer
+for _for
+the B-movie.name
+godfather I-movie.name
+
+the B-movie.name
+godfather I-movie.name
+was _was
+produced _produced
+by _by
+
+who _who
+produced _produced
+the _the
+movie _movie
+<unk> B-movie.name
+
+who _who
+produced _produced
+hotel B-movie.name
+rwanda I-movie.name
+
+who _who
+produced _produced
+marley B-movie.name
+and I-movie.name
+me I-movie.name
+
+who _who
+produced _produced
+despicable B-movie.name
+me I-movie.name
+
+who _who
+is _is
+the _the
+company _company
+that _that
+produced _produced
+the _the
+movie _movie
+inception B-movie.name
+
+what _what
+company _company
+<unk> _produced
+the _the
+movie _movie
+inception B-movie.name
+
+find _find
+producer _producer
+of _of
+the B-movie.name
+great I-movie.name
+debaters I-movie.name
+
+who _who
+produced _produced
+inception B-movie.name
+
+provide _provide
+the _the
+name _name
+of _of
+the _the
+company _company
+that _that
+produced _produced
+sparkle B-movie.name
+
+i _i
+need _need
+to _to
+know _know
+the _the
+company _company
+that _that
+produced _produced
+sparkle B-movie.name
+
+find _find
+the _the
+producer _producer
+of _of
+look _look
+who _who
+s _s
+<unk> _the
+
+who _who
+produced _produced
+<unk> B-movie.name
+<unk> I-movie.name
+
+find _find
+the _the
+producer _producer
+of _of
+step B-movie.name
+up I-movie.name
+
+please _please
+find _find
+the _the
+producer _producer
+of _of
+freedom B-movie.name
+writers I-movie.name
+
+look _look
+for _for
+the _the
+producer _producer
+of _of
+freedom B-movie.name
+writers I-movie.name
+
+show _show
+me _me
+movie _movie
+rating _rating
+
+how _how
+much _much
+revenue _revenue
+did _did
+pretty B-movie.name
+woman I-movie.name
+make _make
+
+earnings _earnings
+for _for
+pretty B-movie.name
+woman I-movie.name
+
+what _what
+was _was
+the _the
+revenue _revenue
+of _of
+pretty B-movie.name
+woman I-movie.name
+
+how _how
+much _much
+did _did
+pretty B-movie.name
+woman I-movie.name
+make _make
+
+what _what
+was _was
+the _the
+gross _gross
+revenue _revenue
+for _for
+the B-movie.name
+avengers I-movie.name
+
+how _how
+much _much
+did _did
+the B-movie.name
+avengers I-movie.name
+make _make
+
+revenue _revenue
+for _for
+the B-movie.name
+avengers I-movie.name
+
+how _how
+much _much
+did _did
+the B-movie.name
+dark I-movie.name
+night I-movie.name
+generate _generate
+in _in
+revenues _revenues
+
+find _find
+revenue _revenue
+<unk> _generated
+for _for
+jurassic B-movie.name
+park I-movie.name
+
+revenue _revenue
+for _for
+<unk> B-movie.name
+day I-movie.name
+
+what _what
+is _is
+the _the
+new _new
+will B-actor.name
+ferrell I-actor.name
+movie _movie
+about _about
+
+who _who
+played _played
+the _the
+voice _voice
+of _of
+nemo B-character.name
+in _in
+finding B-movie.name
+nemo I-movie.name
+
+who _who
+played _played
+richie B-character.name
+<unk> I-character.name
+in _in
+happy B-movie.name
+days I-movie.name
+
+who _who
+stars _stars
+in _in
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+
+show _show
+me _me
+the _the
+cast _cast
+for _for
+the B-movie.name
+house I-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+
+cast _cast
+and _and
+crew _crew
+of _of
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+
+ethel B-character.name
+actress _actress
+from _from
+i B-movie.name
+love I-movie.name
+lucy I-movie.name
+
+actress _actress
+who _who
+played _played
+ethel B-character.name
+on _on
+i B-movie.name
+love I-movie.name
+lucy I-movie.name
+
+who _who
+are _are
+the _the
+cast _cast
+members _members
+in _in
+lord B-movie.name
+of I-movie.name
+the I-movie.name
+rings I-movie.name
+the I-movie.name
+two I-movie.name
+<unk> I-movie.name
+
+who _who
+played _played
+<unk> B-character.name
+in _in
+<unk> B-movie.name
+
+who _who
+played _played
+mother B-character.name
+in _in
+tarkovsky B-director.name
+s _s
+mirror B-movie.name
+
+show _show
+me _me
+the _the
+actor _actor
+of _of
+the _the
+movie _movie
+<unk> B-movie.name
+<unk> I-movie.name
+
+who _who
+are _are
+the _the
+<unk> _actors
+in _in
+star B-movie.name
+wars I-movie.name
+episode I-movie.name
+four I-movie.name
+
+who _who
+was _was
+that _that
+guy _guy
+<unk> _who
+who _who
+was _was
+in _in
+the B-movie.name
+avengers I-movie.name
+
+which _which
+actor _actor
+played _played
+<unk> B-character.name
+in _in
+lord B-movie.name
+of I-movie.name
+the I-movie.name
+rings I-movie.name
+
+find _find
+the _the
+name _name
+of _of
+the _the
+actress _actress
+who _who
+played _played
+mother B-character.name
+in _in
+mirror B-movie.name
+by _by
+<unk> _the
+tarkovsky B-director.name
+
+what _what
+is _is
+the _the
+name _name
+of _of
+the _the
+actress _actress
+who _who
+played _played
+mother I-character.name
+in _in
+tarkovsky B-director.name
+s _s
+mirror B-movie.name
+
+what _what
+is _is
+the _the
+name _name
+of _of
+the _the
+actor _actor
+who _who
+played _played
+todd B-character.name
+in _in
+the _the
+tv _tv
+show _show
+one B-movie.name
+life I-movie.name
+to I-movie.name
+live I-movie.name
+
+give _give
+me _me
+the _the
+name _name
+of _of
+the _the
+main _main
+actress _actress
+in _in
+platoon B-movie.name
+
+what _what
+s _s
+the _the
+name _name
+of _of
+the B-character.name
+mom I-character.name
+on _on
+seinfeld B-movie.name
+
+name _name
+the _the
+co-star _co-star
+in _in
+shoot B-movie.name
+to I-movie.name
+kill I-movie.name
+
+what _what
+is _is
+the _the
+name _name
+of _of
+the _the
+actor _actor
+who _who
+played _played
+<unk> B-character.name
+<unk> I-character.name
+in _in
+to B-movie.name
+kill I-movie.name
+a I-movie.name
+mockingbird I-movie.name
+
+show _show
+me _me
+the _the
+name _name
+of _of
+the _the
+guy _guy
+who _who
+was _was
+the _the
+father B-movie.name
+and I-movie.name
+a I-movie.name
+<unk> I-movie.name
+in I-movie.name
+to I-movie.name
+kill I-movie.name
+a I-movie.name
+mockingbird I-movie.name
+
+please _please
+provide _provide
+the _the
+cost _cost
+for _for
+producing _producing
+the B-movie.name
+deer I-movie.name
+hunter I-movie.name
+
+what _what
+is _is
+the _the
+budget _budget
+for _for
+epic B-movie.name
+
+search _search
+budget _budget
+for _for
+the _the
+movie _movie
+epic B-movie.name
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+<unk> B-movie.name
+<unk> I-movie.name
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+<unk> B-movie.name
+<unk> I-movie.name
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+1st _1st
+harry B-movie.name
+potter I-movie.name
+movie _movie
+
+how _how
+much _much
+was _was
+spent _spent
+on _on
+<unk> _the
+the _the
+last _last
+harry B-movie.name
+potter I-movie.name
+film _film
+
+how _how
+much _much
+does _does
+it _it
+cost _cost
+to _to
+produce _produce
+looper B-movie.name
+
+how _how
+much _much
+did _did
+it _it
+cost _cost
+to _to
+produce _produce
+looper B-movie.name
+
+how _how
+much _much
+money _money
+was _was
+spent _spent
+to _to
+produce _produce
+looper B-movie.name
+
+how _how
+much _much
+did _did
+men B-movie.name
+in I-movie.name
+black I-movie.name
+3 I-movie.name
+cost _cost
+
+how _how
+much _much
+was _was
+it _it
+to _to
+make _make
+paranorman B-movie.name
+
+show _show
+me _me
+the _the
+budget _budget
+to _to
+rebel B-movie.name
+movie _movie
+
+show _show
+me _me
+the _the
+budget _budget
+for _for
+star B-movie.name
+wars I-movie.name
+2 I-movie.name
+
+how _how
+much _much
+did _did
+it _it
+cost _cost
+to _to
+<unk> _produce
+the B-movie.name
+<unk> I-movie.name
+<unk> I-movie.name
+
+show _show
+me _me
+the _the
+budget _budget
+for _for
+expendables B-movie.name
+1 I-movie.name
+
+what _what
+was _was
+the _the
+budget _budget
+for _for
+finding B-movie.name
+nemo I-movie.name
+in I-movie.name
+3d I-movie.name
+
+liongate B-producer.name
+
+which _which
+country _country
+made _made
+<unk> B-movie.name
+
+what _what
+country _country
+<unk> _is
+les B-movie.name
+mes I-movie.name
+
+what _what
+country _country
+is _is
+les B-movie.name
+mes I-movie.name
+from _from
+
+where _where
+was _was
+the _the
+<unk> _cast
+of _of
+<unk> B-movie.name
+made _made
+
+what _what
+country _country
+is _is
+<unk> B-movie.name
+<unk> I-movie.name
+
+what _what
+country _country
+does _does
+the _the
+movie _movie
+thoda B-movie.name
+pyaar I-movie.name
+thoda I-movie.name
+magic I-movie.name
+comes _comes
+from _from
+
+tell _tell
+me _me
+where _where
+the B-movie.name
+white I-movie.name
+<unk> _takes
+came _came
+from _from
+
+when _when
+was _was
+the _the
+movie _movie
+barfi B-movie.name
+! I-movie.name
+released _released
+
+what _what
+are _are
+the _the
+dates _dates
+for _for
+the _the
+movie _movie
+barfi B-movie.name
+! I-movie.name
+
+release _release
+date _date
+of _of
+the B-movie.name
+new I-movie.name
+<unk> I-movie.name
+<unk> I-movie.name
+film _film
+
+what _what
+is _is
+the _the
+release _release
+date _date
+of _of
+evil B-movie.name
+goes I-movie.name
+global I-movie.name
+
+what _what
+is _is
+the _the
+release _release
+date _date
+for _for
+jaws B-movie.name
+17 I-rating.name
+in _in
+the _the
+theaters _theaters
+
+what _what
+is _is
+the _the
+release _release
+date _date
+for _for
+jurassic B-movie.name
+park I-movie.name
+4 _4
+
+list _list
+release _release
+dates _dates
+for _for
+the _the
+jurassic B-movie.name
+park I-movie.name
+movies _movies
+
+when _when
+will _will
+the _the
+movie _movie
+omg B-movie.name
+oh I-movie.name
+my I-movie.name
+god I-movie.name
+be _be
+released _released
+
+when _when
+was _was
+the B-movie.name
+lord I-movie.name
+of I-movie.name
+the I-movie.name
+rings I-movie.name
+movie _movie
+released _released
+
+whats _whats
+paranormal B-movie.name
+<unk> I-movie.name
+release _release
+date _date
+
+when _when
+will _will
+<unk> B-movie.name
+come _come
+out _out
+
+when _when
+was _was
+<unk> B-movie.name
+be _be
+released _released
+
+when _when
+was _was
+the B-movie.name
+sound I-movie.name
+of I-movie.name
+music I-movie.name
+released _released
+
+when _when
+will _will
+twilight B-movie.name
+breaking I-movie.name
+dawn I-movie.name
+part _part
+2 _2
+be _be
+released _released
+
+who _who
+directed _directed
+<unk> B-movie.name
+
+find _find
+the _the
+director _director
+of _of
+downton B-movie.name
+abbey I-movie.name
+
+who _who
+directed _directed
+good B-movie.name
+bad I-movie.name
+and I-movie.name
+ugly I-movie.name
+
+i _i
+can _can
+t I-movie.name
+remember _remember
+who _who
+directed _directed
+star B-movie.name
+wars I-movie.name
+
+find _find
+the _the
+director _director
+of _of
+to B-movie.name
+kill I-movie.name
+a I-movie.name
+mockingbird I-movie.name
+
+is _is
+amelie B-movie.name
+in _in
+a _a
+different _different
+language _language
+
+what _what
+language _language
+was _was
+amelie B-movie.name
+filmed _filmed
+in _in
+
+what _what
+language _language
+is _is
+the _the
+full B-movie.name
+<unk> I-movie.name
+in _in
+
+what _what
+is _is
+ju B-movie.name
+on _on
+s _s
+original _original
+language _language
+
+what _what
+language _language
+is _is
+secrets B-movie.name
+and I-movie.name
+lies I-movie.name
+in _in
+
+give _give
+me _me
+names _names
+of _of
+some _some
+action B-movie.genre
+movies _movies
+with _with
+a _a
+pg B-rating.name
+thirteen I-rating.name
+rating _rating
+
+show _show
+all _all
+comedy B-movie.genre
+musicals B-movie.genre
+for _for
+twenty B-movie.release_date
+twelve I-movie.release_date
+
+are _are
+there _there
+any _any
+documentaries B-movie.genre
+on _on
+classic B-movie.subject
+cars I-movie.subject
+
+show _show
+all _all
+dramas B-movie.genre
+produced _produced
+in _in
+2010 B-movie.release_date
+
+find _find
+some _some
+<unk> B-movie.genre
+
+search _search
+romantic B-movie.genre
+<unk> I-movie.genre
+
+<unk> _please
+
+show _show
+me _me
+westerns B-movie.genre
+
+show _show
+car B-movie.subject
+documentaries B-movie.genre
+
+show _show
+me _me
+a _a
+katie B-actor.name
+holmes I-actor.name
+<unk> _movies
+
+i _i
+want _want
+to _to
+see _see
+videos _videos
+of _of
+steven B-director.name
+spielberg I-director.name
+
+videos _videos
+related _related
+to _to
+steven B-person.name
+spielberg I-person.name
+
+new _new
+released _released
+videos _videos
+
+i _i
+want _want
+to _to
+see _see
+<unk> B-country.name
+movies _movies
+
+show _show
+all _all
+<unk> B-country.name
+movies _movies
+for _for
+nineteen B-movie.release_date
+eighty I-movie.release_date
+
+what _what
+movies _movies
+were _were
+made _made
+in _in
+ireland B-country.name
+this B-movie.release_date
+year I-movie.release_date
+
+find _find
+<unk> _me
+movies _movies
+in _in
+english B-movie.language
+
+show _show
+me _me
+the _the
+highest-grossing _highest-grossing
+movies _movies
+from _from
+<unk> B-country.name
+
+find _find
+movies _movies
+in _in
+america B-movie.release_region
+about _about
+<unk> B-movie.subject
+
+i _i
+d _d
+love _love
+to _to
+watch _watch
+an _an
+albert B-producer.name
+ruddy I-producer.name
+movie _movie
+
+what _what
+other _other
+films _films
+has _has
+<unk> B-producer.name
+ruddy I-producer.name
+done _done
+
+bring _bring
+up _up
+all _all
+movies _movies
+brad B-director.name
+pitt I-director.name
+directed _directed
+
+what _what
+movies _movies
+has _has
+brad B-director.name
+pitt I-director.name
+directed _directed
+
+movies _movies
+by _by
+<unk> B-director.name
+<unk> I-director.name
+
+did _did
+<unk> B-movie.name
+hunter I-movie.name
+direct _direct
+any _any
+movies _movies
+
+what _what
+movies _movies
+did _did
+<unk> B-actor.name
+<unk> I-actor.name
+do _do
+
+movies _movies
+by _by
+john B-director.name
+paul I-director.name
+as _as
+a _a
+director _director
+
+show _show
+me _me
+movies _movies
+directed _directed
+by _by
+john B-director.name
+paul I-director.name
+
+tom B-actor.name
+cruise I-actor.name
+has _has
+directed _directed
+what _what
+movies _movies
+
+please _please
+list _list
+all _all
+movies _movies
+directed _directed
+by _by
+tom B-director.name
+cruise I-director.name
+
+<unk> B-director.name
+<unk> I-director.name
+directed _directed
+what _what
+movie _movie
+
+find _find
+action B-movie.genre
+movies _movies
+with _with
+john B-actor.name
+travolta I-actor.name
+
+show _show
+all _all
+<unk> B-country.name
+films _films
+for _for
+twenty B-movie.release_date
+twelve I-movie.release_date
+
+animated B-movie.genre
+pg B-rating.name
+thirteen I-rating.name
+movies _movies
+
+<unk> B-country.name
+movies _movies
+
+i _i
+like _like
+<unk> B-country.name
+movies _movies
+
+show _show
+me _me
+films _films
+released _released
+in _in
+september B-movie.release_date
+
+show _show
+all _all
+movies _movies
+released _released
+in _in
+september B-movie.release_date
+
+look _look
+up _up
+all _all
+movies _movies
+coming _coming
+in _in
+september B-movie.release_date
+
+find _find
+movies _movies
+for _for
+twenty B-movie.release_date
+ten I-movie.release_date
+
+most _most
+recent _recent
+zombie B-movie.subject
+movies _movies
+
+search _search
+for _for
+movies _movies
+in _in
+chinese B-movie.language
+
+find _find
+me _me
+movies _movies
+that _that
+are _are
+in _in
+chinese B-movie.language
+
+i _i
+want _want
+to _to
+see _see
+a _a
+list _list
+of _of
+all _all
+movies _movies
+shown _shown
+in _in
+english B-movie.language
+
+find _find
+movies _movies
+in _in
+<unk> B-movie.language
+
+send _send
+me _me
+movies _movies
+that _that
+are _are
+in _in
+french B-movie.language
+
+find _find
+movies _movies
+in _in
+french B-movie.language
+
+i _i
+would _would
+like _like
+a _a
+list _list
+of _of
+movies _movies
+in _in
+french B-movie.language
+
+movies _movies
+in _in
+french B-movie.language
+
+i _i
+want _want
+to _to
+find _find
+movies _movies
+<unk> _starring
+the _the
+french B-movie.language
+<unk> _movies
+
+i _i
+want _want
+movies _movies
+in _in
+french B-movie.language
+
+find _find
+movies _movies
+in _in
+german B-movie.language
+before _before
+2000 B-movie.release_date
+
+give _give
+me _me
+some _some
+movies _movies
+which _which
+were _were
+filmed _filmed
+in _in
+polish B-movie.language
+
+find _find
+movies _movies
+in _in
+portugese B-movie.language
+
+show _show
+all _all
+movies _movies
+in _in
+spanish B-movie.language
+
+list _list
+of _of
+movies _movies
+in _in
+the B-movie.location
+spanish B-movie.language
+language I-movie.language
+
+movies _movies
+in _in
+spanish B-movie.language
+
+i _i
+am _am
+searching _searching
+for _for
+movies _movies
+in _in
+spanish B-movie.language
+
+i _i
+would _would
+like _like
+to _to
+look _look
+for _for
+movies _movies
+in _in
+spanish B-movie.language
+
+find _find
+movies _movies
+in _in
+<unk> B-movie.language
+
+show _show
+me _me
+a _a
+list _list
+of _of
+all _all
+movies _movies
+produced _produced
+by _by
+alfred B-producer.name
+ruddy I-producer.name
+
+what _what
+other _other
+movies _movies
+charles B-director.name
+vidor I-director.name
+produce _produce
+
+has _has
+jennifer B-actor.name
+<unk> I-actor.name
+produced _produced
+movies _movies
+
+show _show
+me _me
+the _the
+movies _movies
+produced _produced
+by _by
+<unk> _what
+s _s
+<unk> _the
+
+list _list
+the _the
+movies _movies
+created _created
+by _by
+7 _7
+arts I-producer.name
+
+lionsgate B-producer.name
+<unk> I-producer.name
+i _i
+would _would
+like _like
+to _to
+get _get
+a _a
+list _list
+of _of
+your _your
+movies _movies
+from _from
+two B-movie.release_date
+thousand I-movie.release_date
+and I-movie.release_date
+nine I-movie.release_date
+to _to
+two B-movie.release_date
+thousand I-movie.release_date
+and I-movie.release_date
+twelve I-movie.release_date
+
+twentieth B-producer.name
+century I-producer.name
+fox I-producer.name
+movies _movies
+2012 B-movie.release_date
+
+show _show
+me _me
+nc B-rating.name
+<unk> _rated
+seventeen B-rating.name
+rated _rated
+movies _movies
+
+show _show
+me _me
+movies _movies
+with _with
+not _not
+rated _rated
+rating _rating
+
+give _give
+me _me
+a _a
+list _list
+of _of
+nr B-rating.name
+movies _movies
+
+what _what
+is _is
+a _a
+list _list
+of _of
+pg B-rating.name
+thirteen I-rating.name
+action B-movie.genre
+movies _movies
+
+i _i
+want _want
+to _to
+see _see
+a _a
+pg B-rating.name
+thirteen I-rating.name
+movie _movie
+
+show _show
+me _me
+a _a
+complete _complete
+list _list
+of _of
+r B-rating.name
+rated _rated
+movies _movies
+that _that
+came _came
+out _out
+in _in
+the _the
+last B-movie.release_date
+<unk> I-movie.release_date
+days B-movie.name
+
+show _show
+me _me
+all _all
+rated _rated
+r B-rating.name
+movies _movies
+by _by
+paramount B-producer.name
+
+show _show
+me _me
+movies _movies
+that _that
+are _are
+<unk> B-movie.genre
+
+list _list
+movies _movies
+from _from
+1995 I-movie.release_date
+with _with
+adam B-actor.name
+sandler I-actor.name
+
+i _i
+want _want
+to _to
+see _see
+movies _movies
+with _with
+alan B-actor.name
+<unk> I-actor.name
+
+which _which
+movies _movies
+has _has
+angelina B-actor.name
+jolie I-actor.name
+starred _starred
+this B-movie.release_date
+season I-movie.release_date
+
+what _what
+movie _movie
+was _was
+angelina B-actor.name
+a _a
+main _main
+actress _actress
+
+look _look
+up _up
+movies _movies
+starring _starring
+the _the
+singer B-actor.type
+mario B-actor.name
+
+i _i
+want _want
+to _to
+find _find
+movies _movies
+starring _starring
+the _the
+singer B-actor.type
+mario B-actor.name
+
+look _look
+for _for
+movies _movies
+with _with
+<unk> _actor
+von B-actor.name
+sudow I-actor.name
+
+show _show
+me _me
+movies _movies
+that _that
+have _have
+patrick B-actor.name
+swayze I-actor.name
+and _and
+jennifer B-actor.name
+grey I-actor.name
+in _in
+them _them
+
+show _show
+me _me
+movies _movies
+that _that
+star _star
+patrick B-actor.name
+swayze I-actor.name
+starred _starred
+in _in
+from _from
+nineteen B-movie.release_date
+eighty I-movie.release_date
+seven I-movie.release_date
+
+what _what
+is _is
+that B-movie.name
+dancing I-movie.name
+movie _movie
+with _with
+patrick B-actor.name
+swayze I-actor.name
+
+movies _movies
+of _of
+<unk> B-director.name
+<unk> I-director.name
+
+movie _movie
+that _that
+tom B-actor.name
+hanks I-actor.name
+and _and
+kevin B-actor.name
+<unk> I-actor.name
+played _played
+in _in
+together _together
+
+movies _movies
+about _about
+<unk> B-movie.subject
+
+show _show
+me _me
+movies _movies
+about _about
+<unk> B-movie.subject
+
+chess B-movie.subject
+movies _movies
+
+show _show
+me _me
+movies _movies
+on _on
+chess B-movie.subject
+
+what _what
+are _are
+some _some
+movies _movies
+about _about
+<unk> B-movie.subject
+
+what _what
+movies _movies
+can _can
+<unk> _i
+tips B-movie.subject
+on I-movie.subject
+gardening I-movie.subject
+
+i _i
+want _want
+to _to
+look _look
+up _up
+movies _movies
+about _about
+hair B-movie.subject
+
+find _find
+movies _movies
+about _about
+libraries B-movie.subject
+
+find _find
+some _some
+movies _movies
+about _about
+<unk> B-movie.subject
+
+can _can
+you _you
+find _find
+movies _movies
+about _about
+preschool B-movie.subject
+boys I-movie.subject
+
+look _look
+for _for
+movies _movies
+about _about
+preschool B-movie.subject
+boys I-movie.subject
+
+what _what
+films _films
+<unk> _has
+on _on
+<unk> B-movie.name
+and I-movie.name
+<unk> I-movie.name
+s _s
+<unk> _the
+
+i _i
+would _would
+like _like
+to _to
+know _know
+names _names
+of _of
+some _some
+movies _movies
+on _on
+religious B-movie.subject
+issues I-movie.subject
+
+give _give
+me _me
+a _a
+list _list
+of _of
+some _some
+movies _movies
+on _on
+religious B-movie.subject
+issues I-movie.subject
+
+look _look
+for _for
+movies _movies
+about _about
+school _school
+
+tell _tell
+me _me
+the _the
+names _names
+of _of
+some _some
+<unk> B-movie.language
+movies _movies
+
+what _what
+are _are
+some _some
+time B-movie.subject
+travel I-movie.subject
+movies _movies
+i _i
+can _can
+watch _watch
+
+show _show
+me _me
+movies _movies
+involving _involving
+time B-movie.subject
+travel I-movie.subject
+
+<unk> _what
+movies _movies
+please _please
+
+list _list
+movies _movies
+with _with
+a _a
+<unk> _rating
+of _of
+war B-movie.subject
+in _in
+them _them
+
+show _show
+all _all
+movies _movies
+with _with
+the _the
+<unk> _topic
+of _of
+war B-movie.subject
+
+can _can
+you _you
+find _find
+me _me
+some _some
+movies _movies
+about _about
+war B-movie.subject
+
+i _i
+want _want
+a _a
+list _list
+of _of
+movies _movies
+about _about
+war B-movie.subject
+
+i _i
+want _want
+movies _movies
+about _about
+war B-movie.subject
+
+find _find
+movies _movies
+about _about
+world B-movie.subject
+war I-movie.subject
+two _two
+
+what _what
+are _are
+some _some
+zombie B-movie.subject
+<unk> I-movie.subject
+movies _movies
+
+search _search
+for _for
+zombie B-movie.subject
+movies _movies
+
+show _show
+me _me
+belle B-movie.name
+in _in
+spanish B-movie.language
+
+is _is
+dredd B-movie.name
+rated _rated
+r B-rating.name
+
+take _take
+me _me
+to _to
+the _the
+french B-country.name
+version _version
+of _of
+et B-movie.name
+
+find _find
+et B-movie.name
+in _in
+french B-movie.language
+
+find _find
+fast B-movie.name
+and I-movie.name
+furious I-movie.name
+in _in
+japanese B-movie.language
+
+hard _hard
+day _day
+s _s
+night I-movie.name
+richard B-director.name
+lester I-director.name
+
+information _information
+about _about
+movie _movie
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+
+movie _movie
+information _information
+for _for
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+
+will _will
+you _you
+please _please
+show _show
+me _me
+info _info
+on _on
+the _the
+movie _movie
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+
+can _can
+you _you
+please _please
+show _show
+me _me
+info _info
+on _on
+the _the
+movie _movie
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+
+show _show
+me _me
+details _details
+to _to
+the _the
+movie _movie
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+
+show _show
+me _me
+info _info
+on _on
+the _the
+movie _movie
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+please _please
+
+open _open
+a _a
+page _page
+about _about
+the _the
+movie _movie
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+
+is _is
+nine B-movie.release_date
+fourteen I-movie.release_date
+the _the
+<unk> _release
+date _date
+for _for
+resident B-movie.name
+evil I-movie.name
+
+select _select
+<unk> _movies
+in _in
+chinese B-movie.language
+
+find _find
+me _me
+the _the
+first _first
+star B-movie.name
+wars I-movie.name
+movie _movie
+info _info
+
+i _i
+need _need
+details _details
+about _about
+the _the
+movie _movie
+star B-movie.name
+wars I-movie.name
+: I-movie.name
+episode I-movie.name
+four I-movie.name
+- I-movie.name
+a I-movie.name
+new I-movie.name
+hope I-movie.name
+
+did _did
+ray B-producer.name
+stark I-producer.name
+produce _produce
+steel B-movie.name
+magnolias I-movie.name
+
+is _is
+the _the
+movie _movie
+toy B-movie.name
+story I-movie.name
+4 _4
+<unk> _r
+released _released
+next _next
+<unk> B-movie.name
+
+i _i
+want _want
+to _to
+look _look
+up _up
+information _information
+about _about
+american B-country.name
+movies _movies
+
+chinese B-movie.language
+foreign I-movie.language
+film _film
+with _with
+<unk> B-movie.subject
+
+french B-country.name
+movies _movies
+for _for
+twenty B-movie.release_date
+twelve I-movie.release_date
+
+look _look
+for _for
+russian B-movie.language
+movies _movies
+by _by
+mosfilm B-producer.name
+
+show _show
+production _production
+company _company
+lionsgate B-producer.name
+
+paramount B-producer.name
+film I-producer.name
+studios I-producer.name
+
+i _i
+would _would
+like _like
+to _to
+have _have
+more _more
+information _information
+about _about
+the _the
+producer _producer
+ray B-person.name
+stark I-person.name
+
+show _show
+me _me
+details _details
+for _for
+the _the
+director _director
+steven B-person.name
+spielberg I-person.name
+
+show _show
+me _me
+that _that
+actor _actor
+tom B-actor.name
+cruise I-actor.name
+
+i _i
+would _would
+like _like
+information _information
+about _about
+the _the
+actor _actor
+will B-person.name
+ferrell I-person.name
+
+who _who
+produced _produced
+the _the
+movie _movie
+great B-movie.name
+debaters I-movie.name
+
+king I-movie.name
+s _s
+<unk> _the
+production _production
+company _company
+
+i _i
+wonder _wonder
+who _who
+produced _produced
+star B-movie.name
+wars I-movie.name
+
+i _i
+can _can
+t I-movie.name
+remember _remember
+who _who
+produced _produced
+star B-movie.name
+wars I-movie.name
+
+who _who
+produced _produced
+star B-movie.name
+wars I-movie.name
+
+movie _movie
+producers _producers
+
+how _how
+much _much
+did _did
+end B-movie.name
+of I-movie.name
+watch I-movie.name
+gross _gross
+
+how _how
+much _much
+did _did
+movie _movie
+earn _earn
+
+show _show
+me _me
+the _the
+earnings _earnings
+for _for
+hotel B-movie.name
+transylvania I-movie.name
+
+what _what
+did _did
+the _the
+movie _movie
+the _the
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+<unk> I-movie.name
+gross _gross
+
+revenue _revenue
+for _for
+iron B-movie.name
+man I-movie.name
+2 I-movie.name
+
+what _what
+amount _amount
+of _of
+revenue _revenue
+did _did
+iron B-movie.name
+man I-movie.name
+make _make
+
+what _what
+was _was
+the _the
+gross _gross
+revenue _revenue
+of _of
+iron B-movie.name
+man I-movie.name
+
+kahani B-movie.name
+s _s
+revenue _revenue
+
+get _get
+the _the
+revenue _revenue
+of _of
+kahani B-movie.name
+
+revenue _revenue
+looper B-movie.name
+
+how _how
+much _much
+did _did
+looper B-movie.name
+gross _gross
+in _in
+sales _sales
+
+how _how
+much _much
+did _did
+looper B-movie.name
+gross _gross
+
+<unk> _how
+much _much
+did _did
+looper B-movie.name
+make _make
+
+how _how
+much _much
+money _money
+did _did
+mr B-movie.name
+and I-movie.name
+mrs I-movie.name
+smith I-movie.name
+make _make
+
+how _how
+much _much
+money _money
+did _did
+the _the
+movie _movie
+mr B-movie.name
+and I-movie.name
+mrs I-movie.name
+smith I-movie.name
+make _make
+
+in _in
+the _the
+movie _movie
+mr B-movie.name
+and I-movie.name
+mrs I-movie.name
+smith I-movie.name
+how _how
+much _much
+money _money
+did _did
+the _the
+box _box
+<unk> _office
+<unk> _numbers
+
+how _how
+much _much
+money _money
+did _did
+<unk> B-movie.name
+make _make
+
+i _i
+want _want
+to _to
+know _know
+what _what
+the _the
+revenue _revenue
+for _for
+pirates B-movie.name
+was _was
+
+how _how
+much _much
+was _was
+made _made
+from _from
+platoon B-movie.name
+
+what _what
+was _was
+the _the
+gross _gross
+revenue _revenue
+<unk> _generated
+by _by
+star B-movie.name
+wars I-movie.name
+in _in
+<unk> _the
+original _original
+release _release
+
+what _what
+was _was
+the _the
+total _total
+gross _gross
+receipts _receipts
+at _at
+the _the
+box _box
+office _office
+for _for
+the _the
+movie _movie
+star B-movie.name
+wars I-movie.name
+
+what _what
+were _were
+the _the
+gross _gross
+receipts _receipts
+for _for
+hunger B-movie.name
+games I-movie.name
+
+tell _tell
+me _me
+how _how
+much _much
+money _money
+<unk> B-character.name
+boy I-character.name
+made _made
+
+how _how
+much _much
+revenue _revenue
+did _did
+top B-movie.name
+gun I-movie.name
+make _make
+
+tell _tell
+me _me
+the _the
+revenue _revenue
+of _of
+<unk> B-movie.name
+day I-movie.name
+
+what _what
+is _is
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+about _about
+
+show _show
+me _me
+a _a
+list _list
+of _of
+production _production
+companies _companies
+
+show _show
+me _me
+the _the
+viewer _viewer
+ratings _ratings
+in _in
+orange _orange
+
+is _is
+in B-movie.name
+july I-movie.name
+on _on
+netflix _netflix
+
+rate _rate
+movies _movies
+
+find _find
+the _the
+actor _actor
+that _that
+sings _sings
+let _let
+me _me
+love _love
+you _you
+
+what _what
+is _is
+steven B-person.name
+spielberg I-person.name
+up _up
+to _to
+
+<unk> _what
+are _are
+all _all
+your _your
+movies _movies
+in _in
+your _your
+<unk> B-movie.language
+language I-movie.language
+or _or
+in _in
+english B-movie.language
+
+what _what
+s _s
+playing _playing
+tonight _tonight
+
+where _where
+can _can
+i _i
+buy _buy
+this _this
+movie _movie
+
+i _i
+would _would
+like _like
+to _to
+know _know
+if _if
+this _this
+is _is
+a _a
+<unk> B-movie.language
+scary B-movie.genre
+
+how _how
+to _to
+rent _rent
+dirty B-movie.name
+dancing I-movie.name
+
+can _can
+i _i
+rent _rent
+finding B-movie.name
+nemo I-movie.name
+on _on
+netflix _netflix
+
+hotel B-movie.name
+rwanda I-movie.name
+is _is
+based _based
+on _on
+what _what
+
+i _i
+need _need
+to _to
+know _know
+where _where
+you _you
+keep _keep
+resident B-movie.name
+evil I-movie.name
+
+in _in
+september B-movie.release_date
+
+<unk> _about
+finding B-movie.name
+nemo I-movie.name
+
+find _find
+movie _movie
+from _from
+criteria _criteria
+
+find _find
+a _a
+movie _movie
+
+can _can
+you _you
+tell _tell
+me _me
+which _which
+movie _movie
+made _made
+the _the
+most _most
+at _at
+the _the
+box _box
+office _office
+in _in
+the _the
+weekend _weekend
+of _of
+september B-movie.release_date
+twenty I-movie.release_date
+<unk> I-movie.release_date
+
+find _find
+movies _movies
+selected _selected
+on _on
+all _all
+criteria _criteria
+
+options _options
+available _available
+for _for
+movies _movies
+today _today
+
+find _find
+all _all
+selected _selected
+criteria _criteria
+
+search _search
+highlighted _highlighted
+information _information
+
+bring _bring
+up _up
+movie _movie
+request B-movie.name
+
+find _find
+selected _selected
+information _information
+
+find _find
+selected _selected
+criteria _criteria
+
+where _where
+can _can
+i _i
+watch _watch
+movie _movie
+
+search _search
+all _all
+databases _databases
+
+search _search
+databases _databases
+
+where _where
+can _can
+i _i
+see _see
+movie _movie
+
+what _what
+is _is
+the _the
+age _age
+<unk> _group
+for _for
+the _the
+pg B-rating.name
+rating _rating
+for _for
+the _the
+movie _movie
+hotel B-movie.name
+transylvania I-movie.name
+
+what _what
+does _does
+the _the
+rating _rating
+r B-rating.name
+mean _mean
+for _for
+the _the
+movie _movie
+<unk> B-movie.name
+
+show _show
+me _me
+the _the
+<unk> _movie
+or _or
+<unk> _similar
+to _to
+this _this
+movie _movie
+
+how _how
+long _long
+did _did
+it _it
+take _take
+james B-director.name
+cameron I-director.name
+to _to
+produce _produce
+avatar B-movie.name
+
+is _is
+this _this
+film _film
+<unk> B-movie.name
+in _in
+english B-movie.language
+
+apollo B-movie.name
+thirteen I-movie.name
+cast _cast
+was _was
+<unk> _canceled
+how _how
+
+what _what
+other _other
+<unk> _movies
+is _is
+finding B-movie.name
+nemo I-movie.name
+in _in
+
+in _in
+how _how
+many _many
+days B-movie.name
+did _did
+it _it
+take _take
+to _to
+make _make
+twenty _twenty
+one _one
+point _point
+two _two
+for _for
+looper B-movie.name
+
+what _what
+age _age
+group _group
+is _is
+for B-rating.name
+rated _rated
+r B-rating.name
+movies _movies
+
+show _show
+me _me
+the _the
+behind _behind
+scenes _scenes
+of _of
+the _the
+movie _movie
+in B-movie.name
+orange I-movie.name
+
+how _how
+long _long
+do _do
+you _you
+<unk> _have
+that _that
+wb B-producer.name
+will _will
+<unk> _be
+to _to
+<unk> _watch
+in _in
+today _today
+s _s
+<unk> _the
+
+the B-movie.name
+<unk> I-movie.name
+
+who _who
+<unk> _are
+the _the
+ratings _ratings
+on _on
+movies _movies
+
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+should _should
+of _of
+made _made
+more _more
+money _money
+
+find _find
+me _me
+dirty B-movie.name
+dancing I-movie.name
+news _news
+
+who _who
+else _else
+could _could
+have _have
+<unk> _descrbe
+your _your
+job _job
+
+twenty _twenty
+one _one
+point _point
+two _two
+was _was
+<unk> _amazing
+out _out
+
+find _find
+some _some
+<unk> _info
+on _on
+parental _parental
+guidance _guidance
+please _please
+
+who _who
+came _came
+up _up
+for _for
+the _the
+main _main
+plot _plot
+
+what _what
+is _is
+the _the
+standard _standard
+to _to
+be _be
+rated _rated
+g B-rating.name
+
+i _i
+love _love
+taye B-actor.name
+diggs I-actor.name
+
+show _show
+me _me
+the _the
+movie _movie
+reviews _reviews
+in _in
+orange _orange
+
+show _show
+me _me
+<unk> B-movie.genre
+
+how _how
+old _old
+do _do
+you _you
+have _have
+to _to
+be _be
+to _to
+see _see
+an _an
+r-rated B-rating.name
+movie _movie
+
+does _does
+ireland B-country.name
+have _have
+an _an
+<unk> B-rating.name
+to I-rating.name
+th I-producer.name
+us B-country.name
+oscar B-award.ceremony
+awards I-award.ceremony
+
+click _click
+on _on
+the _the
+most _most
+popular _popular
+movie _movie
+in _in
+orange _orange
+
+brazil B-country.name
+movie _movie
+<unk> _listing
+
+what _what
+is _is
+the _the
+history _history
+behind _behind
+lionsgate B-producer.name
+
+what _what
+does _does
+an _an
+r B-rating.name
+rating _rating
+mean _mean
+on _on
+a _a
+movie _movie
+
+can _can
+you _you
+give _give
+me _me
+more _more
+information _information
+about _about
+the _the
+text _text
+highlighted _highlighted
+in _in
+orange _orange
+
+what _what
+are _are
+the _the
+recommended _recommended
+ages _ages
+for _for
+a _a
+pg B-rating.name
+movie _movie
+
+send _send
+dredd B-movie.name
+movie _movie
+
+jenn B-person.name
+ann I-person.name
+<unk> _bio
+
+did _did
+kristen B-person.name
+stewart I-person.name
+have _have
+an _an
+<unk> B-rating.name
+with _with
+the _the
+director _director
+of _of
+snow B-movie.name
+white I-movie.name
+and I-movie.name
+the I-movie.name
+huntsman I-movie.name
+
+show _show
+me _me
+movie _movie
+highlights _highlights
+in _in
+orange _orange
+
+need _need
+to _to
+rate _rate
+movie _movie
+
+how _how
+old _old
+do _do
+you _you
+have _have
+to _to
+be _be
+to _to
+see _see
+a _a
+rated _rated
+r B-rating.name
+movie _movie
+
+what _what
+does _does
+a _a
+pg B-rating.name
+thirteen I-rating.name
+rating _rating
+mean _mean
+
+twenty _twenty
+one _one
+point _point
+two _two
+is _is
+the _the
+first _first
+week _week
+gross _gross
+
+r B-rating.name
+rating _rating
+what _what
+does _does
+that B-movie.name
+<unk> I-movie.name
+
+in B-movie.name
+julie I-movie.name
+
+wb B-producer.name
+- _-
+what _what
+does _does
+it _it
+take _take
+to _to
+become _become
+a _a
+movie _movie
+producer _producer
+
+show _show
+me _me
+hollywood _hollywood
+<unk> _film
+
+how _how
+does _does
+a _a
+movie _movie
+receive _receive
+an _an
+r B-rating.name
+rating _rating
+
+did _did
+you _you
+have _have
+fun _fun
+on _on
+the _the
+set _set
+
+what _what
+are _are
+the _the
+rating _rating
+<unk> _levels
+for _for
+movies _movies
+
+sb _sb
+news _news
+on _on
+life B-movie.name
+
+i _i
+have _have
+a _a
+thirteen I-rating.name
+year _year
+old _old
+
+end B-movie.name
+of I-movie.name
+watch I-movie.name
+<unk> I-movie.name
+of I-movie.name
+made _made
+<unk> _in
+money _money
+
+when _when
+the _the
+movie _movie
+comes _comes
+out _out
+do _do
+you _you
+think _think
+it _it
+will _will
+<unk> _make
+in _in
+the _the
+box _box
+office _office
+
+show _show
+me _me
+the _the
+movie _movie
+list _list
+in _in
+orange _orange
+
+show _show
+me _me
+the _the
+story _story
+of _of
+the _the
+armstrong B-movie.subject
+<unk> I-movie.subject
+
+classic B-movie.subject
+cars I-movie.subject
+
+i _i
+want _want
+to _to
+learn _learn
+about _about
+flowers _flowers
+
+out _out
+camping B-movie.name
+
+happy B-movie.name
+
+<unk> _please
+
+sort _sort
+by _by
+spanish B-movie.language
+
+where _where
+is _is
+punjabi B-movie.language
+
+what _what
+is _is
+robert B-director.name
+wise I-director.name
+s _s
+middle _middle
+name _name
+
+<unk> _please
+
+forty I-movie.gross_revenue
+three B-movie.gross_revenue
+million I-movie.gross_revenue
+what _what
+
+twenty _twenty
+one _one
+point _point
+two _two
+million I-movie.gross_revenue
+dollars I-movie.gross_revenue
+was _was
+<unk> _difference
+between _between
+who _who
+
+do _do
+movie _movie
+<unk> _flags
+<unk> _of
+<unk> _foreign
+countries _countries
+
+on B-movie.name
+lies I-movie.name
+
+the _the
+movie _movie
+a B-movie.name
+<unk> I-movie.name
+is _is
+from _from
+hungary B-country.name
+<unk> _movies
+where _where
+is _is
+the _the
+country _country
+hungary B-country.name
+
+how _how
+fun _fun
+is _is
+it _it
+to _to
+produce _produce
+a _a
+movie _movie
+
+did _did
+you _you
+like _like
+<unk> _to
+with _with
+who _who
+you _you
+did _did
+
+can _can
+i _i
+see _see
+a _a
+map _map
+of _of
+canada B-country.name
+
+was _was
+your _your
+<unk> _favorite
+<unk> _set
+it _it
+
+south B-country.name
+american I-actor.nationality
+country _country
+flags _flags
+
+need _need
+more _more
+info _info
+that _that
+<unk> _are
+to _to
+china B-movie.location
+
+flags _flags
+of _of
+<unk> _the
+<unk> _world
+
+best _best
+writers I-movie.name
+in _in
+the _the
+field B-movie.name
+
+find _find
+the _the
+male _male
+actor _actor
+from _from
+<unk> B-movie.name
+<unk> I-movie.name
+
+who _who
+played _played
+the _the
+female _female
+lead _lead
+in _in
+hitch B-movie.name
+
+find _find
+the _the
+female _female
+actress _actress
+from _from
+<unk> B-movie.name
+<unk> I-movie.name
+
+who _who
+is _is
+in _in
+picture _picture
+three _three
+
+who _who
+are _are
+the _the
+lead _lead
+actors _actors
+
+how _how
+old _old
+is _is
+jennifer B-actor.name
+aniston I-actor.name
+
+when _when
+was _was
+will B-person.name
+ferrell I-person.name
+born _born
+
+where _where
+was _was
+black B-movie.name
+swan I-movie.name
+directed _directed
+
+where _where
+was _was
+<unk> _the
+s _s
+wedding I-movie.name
+shot _shot
+
+show _show
+release _release
+date _date
+in _in
+the B-movie.release_region
+usa I-movie.release_region
+for _for
+the _the
+movie _movie
+little B-movie.name
+women I-movie.name
+
+show _show
+movie _movie
+<unk> _ratings
+
+i _i
+d _d
+like _like
+to _to
+see _see
+popular _popular
+film _film
+directors _directors
+from _from
+the _the
+nineteen B-movie.release_date
+<unk> I-movie.release_date
+s _s
+<unk> _for
+today _today
+
+best _best
+director _director
+
+best _best
+directors _directors
+of _of
+all _all
+time _time
+
+please _please
+show _show
+me _me
+famous _famous
+film _film
+directors _directors
+
+greatest _greatest
+directors _directors
+
+who _who
+produced _produced
+some _some
+of _of
+the _the
+most _most
+popular _popular
+movies _movies
+
+show _show
+me _me
+<unk> _famous
+movie _movie
+directors _directors
+
+who _who
+produced _produced
+hotel B-movie.name
+rwanda I-movie.name
+<unk> I-movie.name
+art I-movie.name
+
+who _who
+s _s
+the _the
+director _director
+
+director _director
+s _s
+name _name
+
+what _what
+is _is
+the _the
+name _name
+of _of
+a _a
+turkish B-movie.language
+director _director
+that _that
+produced _produced
+a _a
+drama B-movie.genre
+film _film
+
+watch _watch
+dredd B-movie.name
+movie _movie
+
+see _see
+dredd B-movie.name
+movie _movie
+
+what _what
+was _was
+the _the
+name _name
+of _of
+an _an
+academy B-award.ceremony
+award I-award.ceremony
+winning _winning
+russian B-country.name
+documentary B-movie.genre
+
+what _what
+movie _movie
+titles _titles
+starring _starring
+meryl B-actor.name
+streep I-actor.name
+<unk> _won
+oscar B-award.ceremony
+<unk> I-award.ceremony
+
+in _in
+search _search
+for _for
+names _names
+of _of
+crew _crew
+members _members
+please _please
+
+get _get
+me _me
+reviews _reviews
+and _and
+info _info
+about _about
+the B-movie.name
+campaign I-movie.name
+movie _movie
+
+show _show
+me _me
+reviews _reviews
+and _and
+info _info
+for _for
+the B-movie.name
+campaign I-movie.name
+
+what _what
+movies _movies
+that _that
+clint B-director.name
+eastwood I-director.name
+direct _direct
+that _that
+he _he
+won _won
+the _the
+best _best
+director _director
+oscar B-award.ceremony
+for _for
+
+what _what
+s _s
+hitchcock B-director.name
+s _s
+most _most
+famous _famous
+movie _movie
+
+tell _tell
+me _me
+some _some
+of _of
+<unk> B-director.name
+<unk> I-director.name
+<unk> _is
+best _best
+movies _movies
+
+looking _looking
+for _for
+movies _movies
+directed _directed
+by _by
+actor _actor
+number B-character.name
+one _one
+
+list _list
+of _of
+movies _movies
+directed _directed
+by _by
+director _director
+three _three
+
+show _show
+me _me
+the _the
+film _film
+that _that
+grossed _grossed
+seven B-movie.gross_revenue
+point I-movie.gross_revenue
+two I-movie.gross_revenue
+million I-movie.gross_revenue
+at _at
+the _the
+box _box
+office _office
+
+show _show
+me _me
+movies _movies
+that _that
+made _made
+over B-movie.gross_revenue
+seven I-movie.gross_revenue
+million I-movie.gross_revenue
+dollars I-movie.gross_revenue
+
+show _show
+me _me
+movies _movies
+that _that
+<unk> B-movie.name
+t I-movie.name
+gross _gross
+much _much
+
+i _i
+want _want
+to _to
+see _see
+movies _movies
+from _from
+<unk> _the
+two B-movie.release_date
+<unk> I-movie.release_date
+
+show _show
+last B-movie.release_date
+years _years
+films _films
+by _by
+7 _7
+arts I-producer.name
+
+show _show
+all _all
+movies _movies
+that _that
+came _came
+out _out
+nine B-movie.release_date
+fourteen I-movie.release_date
+twenty I-movie.release_date
+twelve I-movie.release_date
+
+were _were
+there _there
+any _any
+movies _movies
+released _released
+nine B-movie.release_date
+fourteen I-movie.release_date
+twenty I-movie.release_date
+twelve I-movie.release_date
+
+show _show
+me _me
+movies _movies
+from _from
+the _the
+nineteen B-movie.release_date
+seventies B-movie.release_date
+
+can _can
+you _you
+list _list
+all _all
+movies _movies
+from _from
+twenty B-movie.release_date
+twelve I-movie.release_date
+with _with
+a _a
+rating _rating
+of _of
+three _three
+stars _stars
+and _and
+up _up
+
+academy B-award.ceremony
+award I-award.ceremony
+lionsgate B-producer.name
+movies _movies
+
+show _show
+oscar B-award.ceremony
+winning _winning
+movies _movies
+by _by
+warner B-producer.name
+brothers I-producer.name
+
+what _what
+movie _movie
+<unk> _rating
+did _did
+meryl B-person.name
+streep I-person.name
+win _win
+her _her
+best _best
+<unk> _won
+oscar B-award.ceremony
+
+have _have
+any _any
+us B-country.name
+released _released
+movies _movies
+been _been
+filmed _filmed
+on _on
+<unk> _shot
+in _in
+the _the
+czech B-movie.location
+republic I-movie.location
+
+what _what
+us I-country.name
+release _release
+movies _movies
+have _have
+been _been
+filmed _filmed
+in _in
+the _the
+czech B-movie.location
+republic I-movie.location
+
+list _list
+movies _movies
+set _set
+in _in
+ireland B-movie.location
+
+show _show
+me _me
+the _the
+movies _movies
+released _released
+in _in
+england B-country.name
+
+what _what
+movies _movies
+are _are
+coming _coming
+out _out
+this _this
+week _week
+in _in
+great B-country.name
+britain I-country.name
+
+show _show
+me _me
+the _the
+movies _movies
+released _released
+in _in
+<unk> B-movie.release_region
+
+what _what
+are _are
+the _the
+top _top
+five _five
+french B-country.name
+movies _movies
+of _of
+all _all
+time _time
+
+what _what
+top _top
+films _films
+have _have
+come _come
+out _out
+of _of
+russia B-country.name
+
+show _show
+me _me
+the _the
+top _top
+movies _movies
+from _from
+spain B-country.name
+
+what _what
+is _is
+the _the
+highest _highest
+rated _rated
+zombie B-movie.subject
+movie _movie
+
+what _what
+are _are
+<unk> _the
+rated _rated
+zombie _zombie
+movies _movies
+i _i
+can _can
+watch _watch
+
+look _look
+for _for
+popular _popular
+movies _movies
+
+search _search
+for _for
+foreign B-movie.language
+language I-movie.language
+films _films
+
+what _what
+is _is
+will B-person.name
+ferrell I-person.name
+famous _famous
+for _for
+
+is _is
+this _this
+a _a
+musical B-movie.genre
+
+hope _hope
+that _that
+the _the
+movie _movie
+is _is
+in _in
+english B-movie.language
+
+is _is
+this _this
+movie _movie
+in _in
+english B-movie.language
+
+do _do
+they _they
+speak _speak
+german B-director.nationality
+in _in
+the _the
+movie _movie
+
+is _is
+this _this
+movie _movie
+filmed _filmed
+in _in
+india B-country.name
+
+show _show
+all _all
+dawn B-movie.name
+of I-movie.name
+the I-movie.name
+dead I-movie.name
+movies _movies
+
+all _all
+of _of
+kung B-movie.name
+<unk> I-movie.name
+panda I-movie.name
+movies _movies
+
+list _list
+movies _movies
+that _that
+have _have
+time B-movie.subject
+travel I-movie.subject
+in _in
+their _their
+title _title
+
+i _i
+want _want
+to _to
+see _see
+nine B-movie.release_date
+twenty I-movie.release_date
+eight I-movie.release_date
+release _release
+date _date
+films _films
+from _from
+twenty B-movie.release_date
+twelve I-movie.release_date
+
+find _find
+information _information
+about _about
+french B-country.name
+movies _movies
+
+i _i
+need _need
+to _to
+know _know
+more _more
+about _about
+the _the
+life _life
+and _and
+movies _movies
+of _of
+indian B-actor.nationality
+actor _actor
+dilip B-actor.name
+kumar I-actor.name
+
+what _what
+does _does
+the _the
+miramax B-producer.name
+logo _logo
+look _look
+like _like
+
+show _show
+me _me
+pictures _pictures
+of _of
+martin B-director.name
+scorsese I-director.name
+
+photos _photos
+of _of
+steven B-person.name
+spielberg I-person.name
+
+i _i
+want _want
+to _to
+see _see
+images _images
+of _of
+will B-person.name
+ferrell I-person.name
+
+show _show
+me _me
+pictures _pictures
+of _of
+woody B-director.name
+allen I-director.name
+
+what _what
+are _are
+popular _popular
+movie _movie
+producers _producers
+
+can _can
+you _you
+give _give
+me _me
+the _the
+producer _producer
+
+i _i
+would _would
+like _like
+to _to
+know _know
+the _the
+rating _rating
+of _of
+the _the
+movie _movie
+avatar B-movie.name
+
+what _what
+rating _rating
+is _is
+the _the
+movie _movie
+barfi B-movie.name
+
+what _what
+is _is
+finding B-movie.name
+nemo I-movie.name
+rated _rated
+
+i _i
+need _need
+to _to
+know _know
+the _the
+rating _rating
+of _of
+grease B-movie.name
+
+can _can
+you _you
+find _find
+out _out
+what _what
+rating _rating
+the _the
+movie _movie
+grease B-movie.name
+is I-movie.name
+
+what _what
+is _is
+kids _kids
+by _by
+<unk> _director
+clark B-person.name
+rated _rated
+
+what _what
+rating _rating
+did _did
+marley B-movie.name
+and I-movie.name
+me I-movie.name
+receive _receive
+
+what _what
+is _is
+the _the
+rating _rating
+for _for
+mr B-movie.name
+and I-movie.name
+mrs I-movie.name
+smith I-movie.name
+
+what _what
+rating _rating
+did _did
+resident B-movie.name
+evil I-movie.name
+receive _receive
+
+rating _rating
+for _for
+snow B-movie.name
+white I-movie.name
+and I-movie.name
+the I-movie.name
+huntsman I-movie.name
+
+what _what
+rating _rating
+is _is
+step B-movie.name
+up I-movie.name
+
+look _look
+up _up
+the _the
+rating _rating
+of _of
+the _the
+movie _movie
+step B-movie.name
+up I-movie.name
+
+what _what
+rating _rating
+did _did
+the B-movie.name
+campaign I-movie.name
+movie _movie
+get _get
+
+show _show
+me _me
+the _the
+rating _rating
+for _for
+the _the
+movie _movie
+the B-movie.name
+expendables I-movie.name
+
+what _what
+is _is
+the _the
+rating _rating
+for _for
+toy B-movie.name
+story I-movie.name
+
+what _what
+is _is
+the _the
+rating _rating
+for _for
+the _the
+movie _movie
+toy B-movie.name
+story I-movie.name
+
+rating _rating
+for _for
+twilight B-movie.name
+breaking I-movie.name
+dawn I-movie.name
+
+what _what
+was _was
+gross _gross
+revenue _revenue
+for _for
+batman B-movie.name
+begins I-movie.name
+
+how _how
+much _much
+has _has
+black B-movie.name
+swan I-movie.name
+<unk> _been
+in _in
+
+find _find
+the _the
+revenue _revenue
+for _for
+downton B-movie.name
+abbey I-movie.name
+
+find _find
+the _the
+revenue _revenue
+of _of
+<unk> B-movie.name
+<unk> I-movie.name
+<unk> I-movie.name
+
+what _what
+is _is
+the _the
+most _most
+a _a
+movie _movie
+made _made
+
+reviews _reviews
+for _for
+dirty B-movie.name
+dancing I-movie.name
+
+find _find
+reviews _reviews
+for _for
+dirty B-movie.name
+dancing I-movie.name
+
+what _what
+are _are
+reviews _reviews
+for _for
+finding B-movie.name
+nemo I-movie.name
+
+what _what
+are _are
+the _the
+ratings _ratings
+and _and
+review _review
+on _on
+finding B-movie.name
+nemo I-movie.name
+
+reviews _reviews
+for _for
+finding B-movie.name
+nemo I-movie.name
+
+reviews _reviews
+for _for
+finding B-movie.name
+nemo I-movie.name
+
+reviews _reviews
+for _for
+finding B-movie.name
+nemo I-movie.name
+
+reviews _reviews
+for _for
+movie _movie
+
+reviews _reviews
+for _for
+in B-movie.name
+july I-movie.name
+
+what _what
+are _are
+the _the
+<unk> _main
+<unk> _page
+about _about
+star B-movie.name
+wars I-movie.name
+episode I-movie.name
+four I-movie.name
+
+how _how
+long _long
+is _is
+life B-movie.name
+is I-movie.name
+beautiful I-movie.name
+
+synopsis _synopsis
+for _for
+the _the
+movie _movie
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+
+synopsis _synopsis
+for _for
+star B-movie.name
+wars I-movie.name
+four I-movie.name
+
+summary _summary
+of _of
+star B-movie.name
+wars I-movie.name
+four I-movie.name
+
+finding B-movie.name
+nemo I-movie.name
+movie _movie
+shortcut _shortcut
+
+show _show
+me _me
+the _the
+trailer _trailer
+for _for
+house B-movie.name
+at I-movie.name
+the I-movie.name
+end I-movie.name
+of I-movie.name
+the I-movie.name
+street I-movie.name
+
+life B-movie.name
+is I-movie.name
+beatiful _beatiful
+shortcut _shortcut
+
+trailer _trailer
+for _for
+star B-movie.name
+wars I-movie.name
+a I-movie.name
+new I-movie.name
+hope I-movie.name
+
+show _show
+resident B-movie.name
+evil I-movie.name
+movies _movies
+with _with
+trailers _trailers
+
+can _can
+i _i
+see _see
+<unk> _what
+for _for
+upcoming B-movie.release_date
+warner B-producer.name
+brothers I-producer.name
+movies _movies
+
+how _how
+many _many
+woody B-director.name
+allen I-director.name
+movies _movies
+are _are
+set _set
+in _in
+new _new
+<unk> _big
+city _city
+
+how _how
+many _many
+scorsese B-director.name
+films _films
+were _were
+filmed _filmed
+in _in
+france B-movie.location
+
